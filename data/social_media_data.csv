@@ -1,0 +1,1501 @@
+id,platform,brand,text,sentiment,likes,retweets,date
+1,Facebook,Flipkart,Love the new features in the latest app update. So intuitive.,Positive,1828,142,2026-03-29
+2,Reddit,Zomato,Received a confirmation SMS for my booking.,Neutral,244,95,2026-03-09
+3,Instagram,Myntra,Saw an advertisement for a new show on Netflix.,Neutral,3436,225,2026-03-20
+4,Reddit,Apple,Received wrong item and now customer care is not picking up.,Negative,2276,159,2026-03-11
+5,Reddit,Netflix,Video quality drops every 5 minutes. Unwatchable experience.,Negative,2940,867,2026-03-15
+6,Reddit,Myntra,Paid for premium but still seeing ads. This is unacceptable.,Negative,1022,996,2026-03-16
+7,Google Reviews,Apple,The delivery partner called to confirm the address.,Neutral,4729,196,2026-03-29
+8,Twitter,Flipkart,The new iPhone camera quality is outstanding. Apple never disappoints. #happy,Positive,827,389,2026-03-12
+9,Facebook,Flipkart,Chatbot is completely useless and never connects to a human agent. #happy,Negative,2187,718,2026-03-28
+10,Instagram,Amazon,Product quality exceeded my expectations. Highly recommended.,Positive,3786,388,2026-03-13
+11,Facebook,Zomato,Downloaded the receipt for my recent purchase.,Neutral,1876,841,2026-03-03
+12,Twitter,Flipkart,Driver couldn't find my location despite sharing live location.,Negative,4646,897,2026-03-30
+13,Reddit,Amazon,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,2169,142,2026-03-10
+14,Google Reviews,Samsung,Downloaded the receipt for my recent purchase.,Neutral,4780,408,2026-03-14
+15,Twitter,Netflix,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,1252,642,2026-03-08
+16,Reddit,BigBasket,Swiggy app is showing estimated 35 minutes delivery time. #disappointed,Neutral,3834,541,2026-03-12
+17,Google Reviews,Swiggy,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,2786,114,2026-03-12
+18,Facebook,Myntra,Great sound quality on these earphones. Best buy of the year!,Positive,1463,519,2026-03-06
+19,Facebook,Amazon,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,4418,976,2026-03-21
+20,Twitter,Apple,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,2519,245,2026-03-02
+21,Reddit,Netflix,Notification says my cashback will be credited in 2 days.,Neutral,4363,784,2026-03-06
+22,Google Reviews,BigBasket,Got a notification about a flash sale starting tomorrow. #happy,Neutral,3466,987,2026-03-10
+23,Facebook,Uber Eats,Zomato order was 2 hours late and food arrived cold. Disgusting! #feedback,Negative,4239,462,2026-03-04
+24,Twitter,BigBasket,Flipkart customer support is completely useless. Never buying again. #disappointed,Negative,4537,235,2026-03-24
+25,Twitter,Flipkart,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,552,927,2026-03-03
+26,Instagram,Swiggy,Subscription auto-renewed without any reminder. Scam behavior.,Negative,3976,219,2026-03-22
+27,Reddit,Samsung,Scrolling through my order history from last month.,Neutral,1559,96,2026-03-05
+28,Reddit,Uber Eats,The app asked me to rate my recent experience. #feedback,Neutral,443,689,2026-03-28
+29,Facebook,Netflix,Packaging was eco-friendly and the product was intact. Great job! #disappointed,Positive,2036,196,2026-03-10
+30,Instagram,Swiggy,Checked my order status. It says out for delivery. #happy,Neutral,3789,255,2026-03-05
+31,Google Reviews,Zomato,The delivery partner called to confirm the address.,Neutral,764,948,2026-03-09
+32,Instagram,Samsung,Received the Amazon package. Will open it later.,Neutral,480,168,2026-03-16
+33,Facebook,Samsung,This app is the biggest scam. Taking money without delivering service. #feedback,Negative,4552,677,2026-03-30
+34,Instagram,Zomato,Really happy with my purchase. Exactly as described online. #happy,Positive,4744,753,2026-03-21
+35,Google Reviews,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,4119,941,2026-03-22
+36,Twitter,BigBasket,Customer support was very helpful and patient. 5 stars!,Positive,556,691,2026-03-10
+37,Google Reviews,Zomato,Delivery boy was very polite and on time. Appreciate it.,Positive,671,429,2026-03-28
+38,Instagram,Apple,Notification says my cashback will be credited in 2 days. #feedback,Neutral,1955,271,2026-03-16
+39,Twitter,Zomato,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,3754,636,2026-03-24
+40,Facebook,Amazon,Product quality exceeded my expectations. Highly recommended.,Positive,2859,902,2026-03-04
+41,Reddit,Myntra,Packaging was terrible. Product was broken on arrival.,Negative,2478,626,2026-03-28
+42,Twitter,Amazon,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,2166,118,2026-03-05
+43,Facebook,BigBasket,The delivery partner called to confirm the address. #happy,Neutral,1725,734,2026-03-14
+44,Twitter,Netflix,Paid for premium but still seeing ads. This is unacceptable.,Negative,3469,849,2026-03-11
+45,Facebook,Amazon,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,3619,564,2026-03-30
+46,Twitter,Amazon,Downloaded the receipt for my recent purchase.,Neutral,4469,36,2026-03-15
+47,Instagram,Zomato,The delivery partner called to confirm the address. #happy,Neutral,2525,373,2026-03-02
+48,Twitter,Apple,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,4586,905,2026-03-18
+49,Instagram,Samsung,Really happy with my purchase. Exactly as described online.,Positive,203,183,2026-03-30
+50,Instagram,Netflix,Received the Amazon package. Will open it later. #happy,Neutral,3133,893,2026-03-03
+51,Reddit,Apple,Got a notification about a flash sale starting tomorrow.,Neutral,2500,840,2026-03-09
+52,Facebook,Swiggy,Flipkart sale saved me so much money. Totally worth it! #happy,Positive,568,990,2026-03-12
+53,Google Reviews,Apple,Reading product reviews before making a decision.,Neutral,226,118,2026-03-11
+54,Twitter,BigBasket,The help center page loaded with a list of FAQs.,Neutral,3559,353,2026-03-31
+55,Google Reviews,Netflix,Driver couldn't find my location despite sharing live location.,Negative,3155,921,2026-03-24
+56,Reddit,Zomato,App crashes every time I try to checkout. Fix your bugs.,Negative,4259,947,2026-03-23
+57,Twitter,Apple,Zomato order was 2 hours late and food arrived cold. Disgusting! #feedback,Negative,2571,679,2026-03-05
+58,Reddit,Apple,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,3296,713,2026-03-12
+59,Reddit,Amazon,Best pizza I've ever had. Ordered again the same evening. #happy,Positive,4662,308,2026-03-17
+60,Instagram,Samsung,Zomato delivery was super fast today! Loved the packaging 🎉 #feedback,Positive,4751,621,2026-03-27
+61,Instagram,Myntra,The restaurant menu had a lot of options to choose from.,Neutral,3876,812,2026-03-29
+62,Google Reviews,Apple,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,765,838,2026-03-10
+63,Instagram,Zomato,The new update broke all my preferences. Terrible UX design.,Negative,378,250,2026-03-20
+64,Google Reviews,Flipkart,Product quality exceeded my expectations. Highly recommended!,Positive,3145,506,2026-03-17
+65,Reddit,Flipkart,The subscription plan is affordable and the content is top-notch.,Positive,1440,823,2026-03-30
+66,Instagram,Netflix,The restaurant menu had a lot of options to choose from.,Neutral,3739,136,2026-03-20
+67,Google Reviews,Myntra,The app is asking for a software update. #feedback,Neutral,3495,850,2026-03-22
+68,Facebook,Flipkart,Great sound quality on these earphones. Best buy of the year!,Positive,2271,784,2026-03-22
+69,Twitter,Swiggy,The phone battery drains within 3 hours. Total waste of money. #feedback,Negative,1920,278,2026-03-14
+70,Instagram,Flipkart,Received a confirmation SMS for my booking.,Neutral,3137,710,2026-03-08
+71,Reddit,Apple,Amazon delivered a damaged product. Refund process is a nightmare. #disappointed,Negative,4445,477,2026-03-16
+72,Google Reviews,Zomato,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,4716,389,2026-03-19
+73,Reddit,Myntra,Worst movie recommendation algorithm. Shows irrelevant content. #feedback,Negative,4473,819,2026-03-24
+74,Reddit,Uber Eats,The product page says it will be delivered by Friday. #happy,Neutral,237,398,2026-03-15
+75,Instagram,BigBasket,Just renewed my Netflix subscription for another month. #happy,Neutral,4375,27,2026-03-18
+76,Reddit,Amazon,Notification says my cashback will be credited in 2 days.,Neutral,3782,186,2026-03-02
+77,Reddit,Apple,Size chart is completely wrong. Returned the item immediately.,Negative,2764,779,2026-03-17
+78,Reddit,Zomato,Browsing through Flipkart for some deals.,Neutral,4418,53,2026-03-14
+79,Instagram,Flipkart,App update is smooth and the UI looks amazing now.,Positive,166,636,2026-03-07
+80,Twitter,BigBasket,Best pizza I've ever had. Ordered again the same evening.,Positive,1785,476,2026-03-29
+81,Google Reviews,Netflix,Packaging was terrible. Product was broken on arrival.,Negative,1341,987,2026-03-11
+82,Google Reviews,Samsung,The help center page loaded with a list of FAQs. #disappointed,Neutral,3249,964,2026-03-29
+83,Facebook,BigBasket,Product quality exceeded my expectations. Highly recommended!,Positive,991,815,2026-03-26
+84,Reddit,Apple,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,564,518,2026-03-27
+85,Twitter,Samsung,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,2967,650,2026-03-20
+86,Google Reviews,Swiggy,Really happy with my purchase. Exactly as described online.,Positive,4408,793,2026-03-20
+87,Instagram,Netflix,The app asked me to rate my recent experience. #feedback,Neutral,2284,902,2026-03-19
+88,Twitter,Uber Eats,The restaurant menu had a lot of options to choose from.,Neutral,2662,186,2026-03-19
+89,Facebook,BigBasket,Worst movie recommendation algorithm. Shows irrelevant content. #feedback,Negative,2263,569,2026-03-02
+90,Reddit,Uber Eats,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4548,776,2026-03-10
+91,Twitter,Netflix,Got a notification about a flash sale starting tomorrow.,Neutral,2410,226,2026-03-18
+92,Google Reviews,Apple,Worst delivery experience ever. Package arrived torn and dirty.,Negative,3876,566,2026-03-22
+93,Reddit,Swiggy,Swiggy app is showing estimated 35 minutes delivery time. #feedback,Neutral,2511,257,2026-03-09
+94,Google Reviews,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,1569,221,2026-03-30
+95,Instagram,Swiggy,Received wrong item and now customer care is not picking up.,Negative,1863,369,2026-03-07
+96,Twitter,Zomato,Netflix's new series is absolutely mind-blowing. Binge-watched all night! #happy,Positive,4533,299,2026-03-29
+97,Google Reviews,Swiggy,The product page says it will be delivered by Friday.,Neutral,3845,490,2026-03-19
+98,Reddit,Netflix,Food was delicious and portions were generous. Worth every rupee. #disappointed,Positive,535,410,2026-03-19
+99,Instagram,BigBasket,Scrolling through my order history from last month.,Neutral,2489,87,2026-03-09
+100,Google Reviews,BigBasket,Downloaded the receipt for my recent purchase.,Neutral,1848,794,2026-03-22
+101,Google Reviews,Samsung,Checked my order status. It says out for delivery.,Neutral,2501,582,2026-03-24
+102,Instagram,Swiggy,Packaging was eco-friendly and the product was intact. Great job.,Positive,665,160,2026-03-09
+103,Twitter,Samsung,The delivery partner called to confirm the address.,Neutral,3690,705,2026-03-25
+104,Facebook,Swiggy,Three-day delivery turned into three weeks. No updates at all.,Negative,3719,72,2026-03-27
+105,Twitter,Myntra,Paid for premium but still seeing ads. This is unacceptable. #happy,Negative,1841,663,2026-03-07
+106,Instagram,Swiggy,The subscription plan is affordable and the content is top-notch.,Positive,4874,766,2026-03-24
+107,Facebook,Samsung,Just downloaded the latest update on my phone. #disappointed,Neutral,2230,512,2026-03-22
+108,Twitter,Samsung,Just downloaded the latest update on my phone.,Neutral,2640,618,2026-03-11
+109,Google Reviews,BigBasket,The movie recommendation on Netflix was spot on. Loved it.,Positive,169,783,2026-03-28
+110,Reddit,Myntra,Product is fake. The quality is terrible compared to what was shown.,Negative,3622,938,2026-03-11
+111,Reddit,Netflix,The help center page loaded with a list of FAQs.,Neutral,3850,356,2026-03-17
+112,Facebook,Samsung,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,4058,295,2026-03-27
+113,Twitter,Apple,The delivery partner called to confirm the address. #disappointed,Neutral,2067,331,2026-03-06
+114,Google Reviews,Uber Eats,Just renewed my Netflix subscription for another month.,Neutral,3385,55,2026-03-10
+115,Reddit,Zomato,Chatbot is completely useless and never connects to a human agent.,Negative,1667,273,2026-03-22
+116,Reddit,Netflix,Food was absolutely stale. Had food poisoning after eating this.,Negative,236,996,2026-03-28
+117,Google Reviews,Zomato,The phone battery drains within 3 hours. Total waste of money. #happy,Negative,4524,417,2026-03-04
+118,Instagram,Uber Eats,Love the new features in the latest app update. So intuitive!,Positive,2390,521,2026-03-29
+119,Instagram,Uber Eats,Browsing through Flipkart for some deals.,Neutral,4515,148,2026-03-17
+120,Facebook,Samsung,Reading product reviews before making a decision.,Neutral,2784,956,2026-03-22
+121,Facebook,BigBasket,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,4750,675,2026-03-21
+122,Reddit,Apple,Really happy with my purchase. Exactly as described online.,Positive,2723,565,2026-03-22
+123,Instagram,BigBasket,Received an email about a new product launch.,Neutral,3137,239,2026-03-16
+124,Reddit,Samsung,Driver couldn't find my location despite sharing live location.,Negative,1246,507,2026-03-01
+125,Reddit,Netflix,Saw an advertisement for a new show on Netflix.,Neutral,4308,932,2026-03-19
+126,Instagram,Netflix,The subscription plan is affordable and the content is top-notch.,Positive,3846,800,2026-03-12
+127,Google Reviews,Samsung,Placed my Zomato order. Waiting for delivery. #disappointed,Neutral,2594,641,2026-03-31
+128,Twitter,Flipkart,The product page says it will be delivered by Friday.,Neutral,2354,232,2026-03-29
+129,Twitter,Uber Eats,The app asked me to rate my recent experience.,Neutral,1362,710,2026-03-11
+130,Facebook,Apple,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,3070,441,2026-03-07
+131,Instagram,Amazon,The app is asking for a software update.,Neutral,1434,80,2026-03-26
+132,Google Reviews,Amazon,Size chart is completely wrong. Returned the item immediately. #happy,Negative,1902,472,2026-03-27
+133,Twitter,Uber Eats,Received an email about a new product launch.,Neutral,2356,693,2026-03-22
+134,Google Reviews,Swiggy,Product quality exceeded my expectations. Highly recommended!,Positive,3475,706,2026-03-12
+135,Reddit,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous. #happy,Negative,1943,390,2026-03-25
+136,Facebook,Zomato,Scrolling through my order history from last month.,Neutral,3242,281,2026-03-02
+137,Instagram,BigBasket,Had the best experience at this restaurant. Will definitely visit again!,Positive,2886,224,2026-03-27
+138,Twitter,Zomato,App crashes every time I try to checkout. Fix your bugs.,Negative,2530,807,2026-03-19
+139,Instagram,Netflix,The help center page loaded with a list of FAQs.,Neutral,2417,334,2026-03-30
+140,Google Reviews,Apple,Seamless checkout experience. Will recommend to all my friends.,Positive,4348,513,2026-03-13
+141,Facebook,Apple,The customer care team was empathetic and resolved my issue fast. #feedback,Positive,943,479,2026-03-04
+142,Facebook,Netflix,Flipkart customer support is completely useless. Never buying again.,Negative,3232,14,2026-03-12
+143,Facebook,BigBasket,Delivery boy was very polite and on time. Appreciate it.,Positive,3121,842,2026-03-27
+144,Twitter,BigBasket,Super impressed with the quick refund. Will shop again. #happy,Positive,4599,335,2026-03-24
+145,Facebook,Samsung,App update is smooth and the UI looks amazing now.,Positive,955,143,2026-03-01
+146,Twitter,Flipkart,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,4403,138,2026-03-17
+147,Instagram,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,811,853,2026-03-20
+148,Facebook,Flipkart,Received the Amazon package. Will open it later.,Neutral,3632,455,2026-03-11
+149,Facebook,Myntra,Chatbot is completely useless and never connects to a human agent.,Negative,2938,62,2026-03-17
+150,Twitter,Flipkart,The live streaming feature is buttery smooth. 10/10 experience. #disappointed,Positive,4891,994,2026-03-01
+151,Google Reviews,Flipkart,Subscription auto-renewed without any reminder. Scam behavior.,Negative,562,849,2026-03-22
+152,Instagram,BigBasket,Amazon delivered a damaged product. Refund process is a nightmare. #happy,Negative,23,283,2026-03-06
+153,Twitter,Zomato,Received a confirmation SMS for my booking.,Neutral,1079,15,2026-03-16
+154,Instagram,Swiggy,The phone battery drains within 3 hours. Total waste of money.,Negative,429,129,2026-03-30
+155,Twitter,Uber Eats,The app is asking for a software update.,Neutral,3672,796,2026-03-15
+156,Instagram,BigBasket,Super impressed with the quick refund. Will shop again.,Positive,355,744,2026-03-28
+157,Twitter,Zomato,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,3923,867,2026-03-17
+158,Reddit,Netflix,Super impressed with the quick refund. Will shop again.,Positive,661,329,2026-03-24
+159,Google Reviews,BigBasket,App update is smooth and the UI looks amazing now. #happy,Positive,4492,729,2026-03-15
+160,Google Reviews,BigBasket,The app is asking for a software update. #feedback,Neutral,3524,101,2026-03-29
+161,Reddit,Flipkart,The delivery partner called to confirm the address. #happy,Neutral,3389,347,2026-03-20
+162,Reddit,Apple,Browsing through Flipkart for some deals. #disappointed,Neutral,2088,383,2026-03-08
+163,Twitter,Netflix,Got a notification about a flash sale starting tomorrow.,Neutral,3537,98,2026-03-31
+164,Twitter,BigBasket,Packaging was terrible. Product was broken on arrival.,Negative,4600,575,2026-03-15
+165,Reddit,Zomato,Delivery boy was very polite and on time. Appreciate it.,Positive,2356,614,2026-03-12
+166,Reddit,Flipkart,Super impressed with the quick refund. Will shop again.,Positive,886,358,2026-03-22
+167,Instagram,Samsung,Love the new features in the latest app update. So intuitive.,Positive,4595,997,2026-03-25
+168,Facebook,Zomato,Downloaded the receipt for my recent purchase.,Neutral,1477,279,2026-03-31
+169,Twitter,Amazon,The new update broke all my preferences. Terrible UX design. #feedback,Negative,1173,579,2026-03-27
+170,Twitter,Netflix,App update is smooth and the UI looks amazing now.,Positive,4345,220,2026-03-17
+171,Facebook,Swiggy,Received an email about a new product launch.,Neutral,2657,795,2026-03-25
+172,Instagram,BigBasket,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,407,690,2026-03-04
+173,Google Reviews,Uber Eats,Just downloaded the latest update on my phone.,Neutral,3392,279,2026-03-11
+174,Reddit,Netflix,Reading product reviews before making a decision. #disappointed,Neutral,2320,694,2026-03-28
+175,Instagram,Samsung,The product page says it will be delivered by Friday.,Neutral,4909,56,2026-03-01
+176,Facebook,Swiggy,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,2687,122,2026-03-02
+177,Reddit,Myntra,The app asked me to rate my recent experience.,Neutral,1885,512,2026-03-23
+178,Twitter,Samsung,Worst movie recommendation algorithm. Shows irrelevant content. #disappointed,Negative,153,470,2026-03-06
+179,Reddit,Samsung,Driver couldn't find my location despite sharing live location.,Negative,2371,117,2026-03-16
+180,Reddit,Apple,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,721,447,2026-03-04
+181,Twitter,Samsung,The app asked me to rate my recent experience.,Neutral,2541,763,2026-03-14
+182,Google Reviews,Netflix,Subscription auto-renewed without any reminder. Scam behavior.,Negative,4346,522,2026-03-11
+183,Instagram,Flipkart,The refund was not credited even after 15 days. Chasing support.,Negative,842,149,2026-03-12
+184,Twitter,Amazon,Seamless checkout experience. Will recommend to all my friends.,Positive,4047,475,2026-03-26
+185,Google Reviews,BigBasket,The help center page loaded with a list of FAQs.,Neutral,2647,884,2026-03-27
+186,Reddit,Uber Eats,Really happy with my purchase. Exactly as described online.,Positive,2480,815,2026-03-13
+187,Twitter,Swiggy,Customer support was very helpful and patient. 5 stars.,Positive,3782,462,2026-03-01
+188,Twitter,BigBasket,Packaging was terrible. Product was broken on arrival.,Negative,4866,519,2026-03-17
+189,Google Reviews,Flipkart,The help center page loaded with a list of FAQs. #disappointed,Neutral,2633,619,2026-03-20
+190,Twitter,Apple,Really happy with my purchase. Exactly as described online. #disappointed,Positive,690,516,2026-03-27
+191,Reddit,Uber Eats,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,4293,535,2026-03-24
+192,Reddit,Samsung,Chatbot is completely useless and never connects to a human agent. #feedback,Negative,2771,695,2026-03-24
+193,Twitter,Myntra,Subscription auto-renewed without any reminder. Scam behavior. #disappointed,Negative,3166,290,2026-03-13
+194,Google Reviews,Amazon,Really happy with my purchase. Exactly as described online.,Positive,2865,317,2026-03-28
+195,Twitter,Swiggy,Placed my Zomato order. Waiting for delivery.,Neutral,4578,385,2026-03-28
+196,Google Reviews,Netflix,Subscription auto-renewed without any reminder. Scam behavior.,Negative,3468,520,2026-03-14
+197,Instagram,Apple,Chatbot is completely useless and never connects to a human agent.,Negative,3983,196,2026-03-09
+198,Twitter,Myntra,Really happy with my purchase. Exactly as described online. #disappointed,Positive,4421,855,2026-03-30
+199,Instagram,BigBasket,Swiggy support resolved my issue within minutes. Excellent service.,Positive,3086,157,2026-03-06
+200,Reddit,Apple,The customer care team was empathetic and resolved my issue fast.,Positive,1945,992,2026-03-20
+201,Google Reviews,Flipkart,Food was absolutely stale. Had food poisoning after eating this.,Negative,2535,988,2026-03-21
+202,Google Reviews,Uber Eats,The live streaming feature is buttery smooth. 10/10 experience.,Positive,3782,787,2026-03-13
+203,Instagram,BigBasket,Size chart is completely wrong. Returned the item immediately.,Negative,1133,893,2026-03-11
+204,Twitter,Myntra,Customer support put me on hold for a few minutes.,Neutral,1021,291,2026-03-06
+205,Google Reviews,Amazon,Great sound quality on these earphones. Best buy of the year! #feedback,Positive,3583,93,2026-03-11
+206,Reddit,Zomato,Checked my order status. It says out for delivery.,Neutral,3247,514,2026-03-14
+207,Instagram,Zomato,This app is the biggest scam. Taking money without delivering service. #disappointed,Negative,2610,953,2026-03-06
+208,Twitter,Swiggy,Subscription auto-renewed without any reminder. Scam behavior.,Negative,3870,712,2026-03-08
+209,Twitter,Netflix,Got a notification about a flash sale starting tomorrow.,Neutral,155,262,2026-03-11
+210,Facebook,Flipkart,Really happy with my purchase. Exactly as described online.,Positive,2467,124,2026-03-02
+211,Twitter,Uber Eats,Browsing through Flipkart for some deals.,Neutral,4888,548,2026-03-03
+212,Instagram,Swiggy,Reading product reviews before making a decision.,Neutral,3516,1,2026-03-25
+213,Twitter,Myntra,The phone battery drains within 3 hours. Total waste of money.,Negative,2954,69,2026-03-23
+214,Reddit,Zomato,Saw an advertisement for a new show on Netflix. #disappointed,Neutral,3169,382,2026-03-13
+215,Facebook,Flipkart,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,849,790,2026-03-26
+216,Facebook,Myntra,Subscription auto-renewed without any reminder. Scam behavior.,Negative,2773,833,2026-03-27
+217,Instagram,Amazon,The restaurant menu had a lot of options to choose from.,Neutral,516,733,2026-03-19
+218,Instagram,Zomato,Three-day delivery turned into three weeks. No updates at all.,Negative,2585,955,2026-03-12
+219,Twitter,Flipkart,Placed my Zomato order. Waiting for delivery.,Neutral,2343,365,2026-03-03
+220,Facebook,Samsung,Subscription auto-renewed without any reminder. Scam behavior.,Negative,3276,761,2026-03-20
+221,Reddit,Apple,Video quality drops every 5 minutes. Unwatchable experience. #happy,Negative,4253,273,2026-03-05
+222,Google Reviews,Amazon,Swiggy app is showing estimated 35 minutes delivery time. #disappointed,Neutral,4468,300,2026-03-14
+223,Facebook,Swiggy,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,3652,617,2026-03-30
+224,Reddit,Zomato,The customer care team was empathetic and resolved my issue fast.,Positive,2888,629,2026-03-17
+225,Reddit,Apple,Customer support was very helpful and patient. 5 stars.,Positive,4203,820,2026-03-31
+226,Google Reviews,Uber Eats,Great sound quality on these earphones. Best buy of the year!,Positive,285,129,2026-03-04
+227,Google Reviews,Zomato,Chatbot is completely useless and never connects to a human agent. #feedback,Negative,4956,157,2026-03-27
+228,Twitter,BigBasket,Packaging was terrible. Product was broken on arrival. #feedback,Negative,1127,542,2026-03-15
+229,Twitter,Zomato,Driver couldn't find my location despite sharing live location.,Negative,1524,511,2026-03-22
+230,Facebook,Uber Eats,Downloaded the receipt for my recent purchase. #disappointed,Neutral,1757,626,2026-03-13
+231,Instagram,Netflix,The product page says it will be delivered by Friday.,Neutral,3703,176,2026-03-30
+232,Facebook,Netflix,The movie recommendation on Netflix was spot on. Loved it.,Positive,4505,555,2026-03-12
+233,Google Reviews,Flipkart,Great sound quality on these earphones. Best buy of the year! #happy,Positive,994,205,2026-03-07
+234,Google Reviews,BigBasket,Logged into the app to check my order history. #disappointed,Neutral,3022,478,2026-03-22
+235,Reddit,Uber Eats,The movie recommendation on Netflix was spot on. Loved it! #disappointed,Positive,4306,420,2026-03-18
+236,Facebook,Netflix,Scrolling through my order history from last month.,Neutral,3686,477,2026-03-28
+237,Google Reviews,Amazon,The refund was not credited even after 15 days. Chasing support.,Negative,1057,443,2026-03-23
+238,Instagram,Swiggy,Customer support was very helpful and patient. 5 stars.,Positive,1348,165,2026-03-15
+239,Facebook,Netflix,Flipkart customer support is completely useless. Never buying again.,Negative,2052,201,2026-03-28
+240,Facebook,BigBasket,Received wrong item and now customer care is not picking up.,Negative,4370,95,2026-03-23
+241,Google Reviews,BigBasket,The customer care team was empathetic and resolved my issue fast.,Positive,2765,862,2026-03-24
+242,Google Reviews,Swiggy,Flipkart sale saved me so much money. Totally worth it!,Positive,1726,785,2026-03-25
+243,Google Reviews,Swiggy,Flipkart sale saved me so much money. Totally worth it.,Positive,2474,494,2026-03-11
+244,Twitter,Zomato,Just renewed my Netflix subscription for another month. #feedback,Neutral,1294,450,2026-03-17
+245,Google Reviews,Amazon,The restaurant menu had a lot of options to choose from. #happy,Neutral,2560,882,2026-03-30
+246,Facebook,Myntra,The refund was not credited even after 15 days. Chasing support.,Negative,4601,108,2026-03-14
+247,Reddit,Flipkart,The restaurant menu had a lot of options to choose from. #disappointed,Neutral,1154,99,2026-03-02
+248,Instagram,Apple,This app is the biggest scam. Taking money without delivering service.,Negative,4732,738,2026-03-14
+249,Reddit,Uber Eats,Great sound quality on these earphones. Best buy of the year.,Positive,2527,509,2026-03-01
+250,Instagram,BigBasket,Placed my Zomato order. Waiting for delivery.,Neutral,2890,49,2026-03-02
+251,Google Reviews,Zomato,Logged into the app to check my order history.,Neutral,880,441,2026-03-07
+252,Twitter,Samsung,Chatbot is completely useless and never connects to a human agent.,Negative,419,583,2026-03-22
+253,Reddit,Myntra,Chatbot is completely useless and never connects to a human agent.,Negative,3689,782,2026-03-22
+254,Reddit,Apple,Delivery boy was very polite and on time. Appreciate it.,Positive,2777,571,2026-03-16
+255,Google Reviews,Samsung,The subscription plan is affordable and the content is top-notch.,Positive,4096,41,2026-03-01
+256,Google Reviews,Uber Eats,Discount coupon worked perfectly. Got 40% off. Amazing deal! #feedback,Positive,1220,620,2026-03-22
+257,Reddit,BigBasket,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,2451,607,2026-03-15
+258,Google Reviews,Swiggy,Reading product reviews before making a decision.,Neutral,3890,835,2026-03-02
+259,Google Reviews,Swiggy,Subscription auto-renewed without any reminder. Scam behavior. #disappointed,Negative,218,611,2026-03-19
+260,Twitter,BigBasket,The help center page loaded with a list of FAQs.,Neutral,3935,174,2026-03-23
+261,Instagram,Zomato,Size chart is completely wrong. Returned the item immediately.,Negative,4690,970,2026-03-29
+262,Facebook,Samsung,The live streaming feature is buttery smooth. 10/10 experience. #disappointed,Positive,1240,422,2026-03-29
+263,Twitter,Amazon,Received the Amazon package. Will open it later.,Neutral,4249,212,2026-03-22
+264,Instagram,Uber Eats,Customer support put me on hold for a few minutes.,Neutral,4367,350,2026-03-22
+265,Instagram,Swiggy,Paid for premium but still seeing ads. This is unacceptable.,Negative,4571,305,2026-03-09
+266,Reddit,Apple,Food was absolutely stale. Had food poisoning after eating this.,Negative,3930,357,2026-03-23
+267,Google Reviews,Myntra,Received wrong item and now customer care is not picking up.,Negative,3110,917,2026-03-18
+268,Twitter,Swiggy,The refund was not credited even after 15 days. Chasing support. #happy,Negative,647,354,2026-03-20
+269,Instagram,Myntra,App crashes every time I try to checkout. Fix your bugs!,Negative,2221,955,2026-03-23
+270,Google Reviews,BigBasket,Product is fake. The quality is terrible compared to what was shown.,Negative,1960,248,2026-03-03
+271,Instagram,Zomato,The app is asking for a software update.,Neutral,820,423,2026-03-15
+272,Instagram,Zomato,Got a notification about a flash sale starting tomorrow.,Neutral,4508,951,2026-03-07
+273,Instagram,Swiggy,Got a notification about a flash sale starting tomorrow.,Neutral,2631,292,2026-03-26
+274,Twitter,Amazon,The movie recommendation on Netflix was spot on. Loved it.,Positive,3423,903,2026-03-06
+275,Facebook,Zomato,Placed my Zomato order. Waiting for delivery.,Neutral,75,305,2026-03-25
+276,Reddit,Myntra,Super impressed with the quick refund. Will shop again. #feedback,Positive,4295,505,2026-03-08
+277,Instagram,Netflix,Saw an advertisement for a new show on Netflix.,Neutral,2708,166,2026-03-30
+278,Facebook,Swiggy,App crashes every time I try to checkout. Fix your bugs!,Negative,4651,690,2026-03-09
+279,Facebook,Netflix,Just renewed my Netflix subscription for another month.,Neutral,3283,685,2026-03-04
+280,Instagram,Zomato,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,2136,392,2026-03-10
+281,Google Reviews,BigBasket,Product is fake. The quality is terrible compared to what was shown. #feedback,Negative,93,267,2026-03-27
+282,Twitter,Uber Eats,The phone battery drains within 3 hours. Total waste of money.,Negative,2513,163,2026-03-18
+283,Twitter,Swiggy,Saw an advertisement for a new show on Netflix.,Neutral,3010,629,2026-03-09
+284,Reddit,BigBasket,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,3060,425,2026-03-30
+285,Google Reviews,Netflix,Got a notification about a flash sale starting tomorrow.,Neutral,4304,457,2026-03-23
+286,Twitter,Zomato,Chatbot is completely useless and never connects to a human agent.,Negative,4486,924,2026-03-22
+287,Facebook,Myntra,Scrolling through my order history from last month.,Neutral,3619,119,2026-03-27
+288,Google Reviews,Uber Eats,The help center page loaded with a list of FAQs.,Neutral,455,464,2026-03-07
+289,Twitter,Myntra,Browsing through Flipkart for some deals.,Neutral,3787,688,2026-03-13
+290,Twitter,Flipkart,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,4737,74,2026-03-02
+291,Twitter,Netflix,The refund was not credited even after 15 days. Chasing support.,Negative,3867,32,2026-03-12
+292,Reddit,Apple,Food was delicious and portions were generous. Worth every rupee.,Positive,3133,459,2026-03-17
+293,Facebook,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,1462,550,2026-03-17
+294,Twitter,Swiggy,Best pizza I've ever had. Ordered again the same evening.,Positive,3792,689,2026-03-30
+295,Instagram,Uber Eats,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2835,158,2026-03-12
+296,Reddit,BigBasket,Love the new features in the latest app update. So intuitive.,Positive,128,246,2026-03-09
+297,Google Reviews,Zomato,Packaging was eco-friendly and the product was intact. Great job! #disappointed,Positive,2004,758,2026-03-02
+298,Instagram,Zomato,Just downloaded the latest update on my phone.,Neutral,1147,515,2026-03-12
+299,Google Reviews,Apple,Scrolling through my order history from last month.,Neutral,1940,309,2026-03-08
+300,Facebook,Swiggy,Order tracking shows the package is in transit. #happy,Neutral,499,570,2026-03-26
+301,Reddit,Zomato,Seamless checkout experience. Will recommend to all my friends.,Positive,2821,964,2026-03-28
+302,Reddit,Samsung,Size chart is completely wrong. Returned the item immediately.,Negative,1222,307,2026-03-16
+303,Instagram,Swiggy,Checked the price comparison across multiple platforms.,Neutral,1182,825,2026-03-19
+304,Google Reviews,Myntra,Downloaded the receipt for my recent purchase.,Neutral,1098,397,2026-03-09
+305,Twitter,Uber Eats,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,3039,94,2026-03-23
+306,Reddit,BigBasket,The live streaming feature is buttery smooth. 10/10 experience. #disappointed,Positive,4939,40,2026-03-04
+307,Instagram,Apple,Downloaded the receipt for my recent purchase. #happy,Neutral,2483,979,2026-03-01
+308,Reddit,Flipkart,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4951,720,2026-03-10
+309,Reddit,Uber Eats,The phone battery drains within 3 hours. Total waste of money. #feedback,Negative,4371,664,2026-03-14
+310,Reddit,Uber Eats,Paid for premium but still seeing ads. This is unacceptable.,Negative,807,822,2026-03-30
+311,Facebook,Samsung,Driver couldn't find my location despite sharing live location. #happy,Negative,374,576,2026-03-10
+312,Google Reviews,BigBasket,The subscription plan is affordable and the content is top-notch. #disappointed,Positive,4744,737,2026-03-17
+313,Instagram,Samsung,Really happy with my purchase. Exactly as described online. #happy,Positive,4667,853,2026-03-10
+314,Reddit,Uber Eats,The delivery partner called to confirm the address. #feedback,Neutral,3775,172,2026-03-31
+315,Google Reviews,Uber Eats,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,1507,938,2026-03-23
+316,Twitter,Zomato,Customer support was very helpful and patient. 5 stars!,Positive,3378,140,2026-03-27
+317,Instagram,Myntra,App update is smooth and the UI looks amazing now.,Positive,3735,382,2026-03-03
+318,Twitter,Myntra,Customer support put me on hold for a few minutes.,Neutral,4519,421,2026-03-01
+319,Facebook,Zomato,The app is asking for a software update.,Neutral,4114,832,2026-03-31
+320,Twitter,Myntra,The app asked me to rate my recent experience.,Neutral,1219,246,2026-03-10
+321,Facebook,Samsung,The app is asking for a software update. #feedback,Neutral,647,382,2026-03-17
+322,Instagram,Swiggy,Notification says my cashback will be credited in 2 days.,Neutral,660,669,2026-03-28
+323,Reddit,Samsung,Swiggy support resolved my issue within minutes. Excellent service! #disappointed,Positive,4527,487,2026-03-03
+324,Reddit,Samsung,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,2713,579,2026-03-05
+325,Google Reviews,Uber Eats,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,2220,47,2026-03-05
+326,Facebook,Zomato,Received wrong item and now customer care is not picking up.,Negative,1697,601,2026-03-08
+327,Instagram,BigBasket,Placed my Zomato order. Waiting for delivery. #disappointed,Neutral,1969,580,2026-03-18
+328,Instagram,Netflix,Received a confirmation SMS for my booking. #feedback,Neutral,4102,763,2026-03-14
+329,Twitter,Apple,Packaging was eco-friendly and the product was intact. Great job!,Positive,4957,787,2026-03-25
+330,Facebook,Uber Eats,Placed my Zomato order. Waiting for delivery.,Neutral,4019,233,2026-03-15
+331,Google Reviews,Samsung,Size chart is completely wrong. Returned the item immediately.,Negative,702,790,2026-03-24
+332,Facebook,Amazon,Worst delivery experience ever. Package arrived torn and dirty.,Negative,3112,728,2026-03-27
+333,Twitter,Netflix,This app is the biggest scam. Taking money without delivering service. #feedback,Negative,42,965,2026-03-12
+334,Instagram,Netflix,Chatbot is completely useless and never connects to a human agent.,Negative,1535,441,2026-03-20
+335,Twitter,Netflix,Downloaded the receipt for my recent purchase.,Neutral,2899,567,2026-03-05
+336,Facebook,Samsung,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,3176,797,2026-03-05
+337,Google Reviews,Amazon,Downloaded the receipt for my recent purchase.,Neutral,3118,173,2026-03-07
+338,Instagram,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous. #feedback,Negative,1369,445,2026-03-12
+339,Facebook,Swiggy,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,2020,738,2026-03-28
+340,Instagram,Swiggy,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,55,971,2026-03-17
+341,Facebook,Samsung,Size chart is completely wrong. Returned the item immediately. #feedback,Negative,4869,139,2026-03-12
+342,Instagram,Samsung,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,2614,298,2026-03-31
+343,Reddit,Swiggy,The product page says it will be delivered by Friday. #happy,Neutral,3218,373,2026-03-05
+344,Google Reviews,Zomato,Zomato order was 2 hours late and food arrived cold. Disgusting.,Negative,3781,965,2026-03-29
+345,Twitter,Samsung,Just downloaded the latest update on my phone.,Neutral,4090,142,2026-03-27
+346,Instagram,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,3088,75,2026-03-20
+347,Google Reviews,Samsung,Customer support put me on hold for a few minutes.,Neutral,4453,37,2026-03-15
+348,Instagram,Apple,Checked the price comparison across multiple platforms.,Neutral,1362,662,2026-03-24
+349,Reddit,Netflix,Notification says my cashback will be credited in 2 days.,Neutral,86,100,2026-03-12
+350,Facebook,Samsung,Reading product reviews before making a decision. #happy,Neutral,3793,790,2026-03-28
+351,Twitter,Uber Eats,Saw an advertisement for a new show on Netflix. #happy,Neutral,856,302,2026-03-16
+352,Facebook,Apple,Love the new features in the latest app update. So intuitive! #happy,Positive,3730,803,2026-03-10
+353,Twitter,Uber Eats,Customer support put me on hold for a few minutes. #feedback,Neutral,3706,326,2026-03-04
+354,Facebook,Netflix,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,1346,952,2026-03-29
+355,Instagram,Apple,Order tracking shows the package is in transit.,Neutral,4586,436,2026-03-19
+356,Reddit,Samsung,Just renewed my Netflix subscription for another month.,Neutral,239,755,2026-03-24
+357,Twitter,Flipkart,Checked my order status. It says out for delivery.,Neutral,1685,285,2026-03-31
+358,Instagram,Apple,App update is smooth and the UI looks amazing now.,Positive,2670,201,2026-03-19
+359,Facebook,BigBasket,Paid for premium but still seeing ads. This is unacceptable.,Negative,3183,625,2026-03-18
+360,Reddit,BigBasket,Love the new features in the latest app update. So intuitive! #feedback,Positive,1413,833,2026-03-28
+361,Instagram,Apple,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,965,244,2026-03-11
+362,Instagram,Myntra,Food was delicious and portions were generous. Worth every rupee.,Positive,3182,428,2026-03-24
+363,Instagram,Uber Eats,Scrolling through my order history from last month.,Neutral,4402,710,2026-03-27
+364,Facebook,Amazon,Downloaded the receipt for my recent purchase. #happy,Neutral,1532,322,2026-03-20
+365,Reddit,Amazon,Had the best experience at this restaurant. Will definitely visit again!,Positive,1598,834,2026-03-17
+366,Reddit,Samsung,Saw an advertisement for a new show on Netflix.,Neutral,3636,500,2026-03-06
+367,Facebook,Zomato,Notification says my cashback will be credited in 2 days.,Neutral,2251,230,2026-03-22
+368,Reddit,Myntra,The customer care team was empathetic and resolved my issue fast.,Positive,4184,115,2026-03-24
+369,Twitter,Uber Eats,Product is fake. The quality is terrible compared to what was shown.,Negative,4475,223,2026-03-16
+370,Reddit,Swiggy,Worst delivery experience ever. Package arrived torn and dirty.,Negative,2855,882,2026-03-05
+371,Google Reviews,Apple,Delivery boy was very polite and on time. Appreciate it.,Positive,4999,647,2026-03-16
+372,Twitter,BigBasket,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,2873,545,2026-03-13
+373,Facebook,Swiggy,Checked the price comparison across multiple platforms. #happy,Neutral,4691,273,2026-03-23
+374,Twitter,Swiggy,Packaging was eco-friendly and the product was intact. Great job! #happy,Positive,1039,718,2026-03-07
+375,Reddit,Uber Eats,The subscription plan is affordable and the content is top-notch.,Positive,1164,591,2026-03-27
+376,Twitter,Netflix,Browsing through Flipkart for some deals.,Neutral,3300,527,2026-03-29
+377,Facebook,BigBasket,Packaging was terrible. Product was broken on arrival.,Negative,20,889,2026-03-29
+378,Google Reviews,Samsung,Received an email about a new product launch.,Neutral,1784,991,2026-03-18
+379,Facebook,Swiggy,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,2766,560,2026-03-24
+380,Twitter,Zomato,Notification says my cashback will be credited in 2 days.,Neutral,815,641,2026-03-19
+381,Reddit,Zomato,Delivery boy was very polite and on time. Appreciate it. #happy,Positive,3504,207,2026-03-29
+382,Twitter,Apple,Prices are misleading. Hidden charges at checkout are ridiculous. #happy,Negative,2051,84,2026-03-15
+383,Facebook,Flipkart,The customer care team was empathetic and resolved my issue fast. #disappointed,Positive,3516,671,2026-03-05
+384,Reddit,Netflix,Packaging was eco-friendly and the product was intact. Great job!,Positive,1087,607,2026-03-10
+385,Facebook,Netflix,Just downloaded the latest update on my phone.,Neutral,3459,710,2026-03-07
+386,Twitter,Netflix,Product quality exceeded my expectations. Highly recommended! #happy,Positive,845,320,2026-03-14
+387,Instagram,Netflix,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,4345,576,2026-03-03
+388,Instagram,Amazon,The customer care team was empathetic and resolved my issue fast.,Positive,3372,630,2026-03-27
+389,Instagram,Netflix,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,4829,747,2026-03-17
+390,Instagram,Swiggy,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,690,254,2026-03-23
+391,Facebook,Flipkart,Food was absolutely stale. Had food poisoning after eating this.,Negative,4241,621,2026-03-22
+392,Twitter,Flipkart,Placed my Zomato order. Waiting for delivery.,Neutral,4054,395,2026-03-04
+393,Twitter,Apple,Logged into the app to check my order history.,Neutral,2592,135,2026-03-18
+394,Google Reviews,Amazon,Notification says my cashback will be credited in 2 days.,Neutral,3858,977,2026-03-04
+395,Instagram,Zomato,App update is smooth and the UI looks amazing now. #disappointed,Positive,495,971,2026-03-17
+396,Reddit,Netflix,Food was absolutely stale. Had food poisoning after eating this.,Negative,4395,550,2026-03-24
+397,Twitter,Myntra,Received wrong item and now customer care is not picking up. #disappointed,Negative,1664,997,2026-03-07
+398,Twitter,Swiggy,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,3583,747,2026-03-09
+399,Twitter,Uber Eats,Worst delivery experience ever. Package arrived torn and dirty. #disappointed,Negative,4987,56,2026-03-13
+400,Instagram,Zomato,Seamless checkout experience. Will recommend to all my friends.,Positive,1342,508,2026-03-15
+401,Facebook,Amazon,Order tracking shows the package is in transit.,Neutral,2201,750,2026-03-06
+402,Facebook,Myntra,Flipkart sale saved me so much money. Totally worth it! #feedback,Positive,523,269,2026-03-30
+403,Google Reviews,Apple,Product quality exceeded my expectations. Highly recommended!,Positive,454,511,2026-03-24
+404,Twitter,BigBasket,Packaging was terrible. Product was broken on arrival. #happy,Negative,944,233,2026-03-30
+405,Instagram,Zomato,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,3864,372,2026-03-16
+406,Reddit,Flipkart,Seamless checkout experience. Will recommend to all my friends.,Positive,2636,254,2026-03-18
+407,Google Reviews,Apple,Driver couldn't find my location despite sharing live location.,Negative,978,514,2026-03-26
+408,Twitter,Samsung,Seamless checkout experience. Will recommend to all my friends.,Positive,564,898,2026-03-21
+409,Twitter,Myntra,Food was absolutely stale. Had food poisoning after eating this. #feedback,Negative,3741,8,2026-03-14
+410,Google Reviews,Flipkart,Three-day delivery turned into three weeks. No updates at all.,Negative,3800,377,2026-03-25
+411,Twitter,Samsung,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,195,238,2026-03-22
+412,Reddit,Swiggy,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,851,210,2026-03-22
+413,Instagram,Swiggy,Browsing through Flipkart for some deals.,Neutral,762,44,2026-03-11
+414,Facebook,Uber Eats,Order tracking shows the package is in transit.,Neutral,695,594,2026-03-05
+415,Google Reviews,BigBasket,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,510,445,2026-03-27
+416,Facebook,Samsung,The phone battery drains within 3 hours. Total waste of money. #feedback,Negative,2672,325,2026-03-19
+417,Instagram,BigBasket,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,892,159,2026-03-04
+418,Reddit,Netflix,Checked my order status. It says out for delivery.,Neutral,4390,366,2026-03-10
+419,Twitter,Netflix,The new update broke all my preferences. Terrible UX design.,Negative,1291,826,2026-03-27
+420,Instagram,Netflix,The new iPhone camera quality is outstanding. Apple never disappoints. #happy,Positive,2033,991,2026-03-15
+421,Facebook,Swiggy,Reading product reviews before making a decision.,Neutral,1424,31,2026-03-18
+422,Reddit,Netflix,Checked my order status. It says out for delivery.,Neutral,1145,124,2026-03-01
+423,Reddit,Apple,Flipkart customer support is completely useless. Never buying again.,Negative,688,596,2026-03-24
+424,Instagram,Uber Eats,Product quality exceeded my expectations. Highly recommended!,Positive,1055,94,2026-03-14
+425,Instagram,BigBasket,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,3548,841,2026-03-30
+426,Reddit,Amazon,Logged into the app to check my order history. #disappointed,Neutral,2899,219,2026-03-07
+427,Twitter,BigBasket,Received wrong item and now customer care is not picking up.,Negative,2013,662,2026-03-12
+428,Twitter,Swiggy,Received the Amazon package. Will open it later.,Neutral,3137,140,2026-03-17
+429,Google Reviews,Zomato,The app is asking for a software update.,Neutral,3133,800,2026-03-30
+430,Google Reviews,Myntra,Customer support put me on hold for a few minutes.,Neutral,2634,397,2026-03-11
+431,Instagram,Zomato,Flipkart sale saved me so much money. Totally worth it.,Positive,2301,59,2026-03-20
+432,Twitter,Flipkart,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,1975,272,2026-03-23
+433,Reddit,Apple,Customer support was very helpful and patient. 5 stars.,Positive,1423,180,2026-03-10
+434,Twitter,Apple,Driver couldn't find my location despite sharing live location.,Negative,4650,577,2026-03-07
+435,Facebook,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4017,38,2026-03-04
+436,Google Reviews,Uber Eats,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,5,339,2026-03-24
+437,Instagram,Apple,Best pizza I've ever had. Ordered again the same evening.,Positive,487,22,2026-03-07
+438,Facebook,Netflix,The subscription plan is affordable and the content is top-notch.,Positive,3060,721,2026-03-27
+439,Facebook,Amazon,Packaging was eco-friendly and the product was intact. Great job! #feedback,Positive,1290,749,2026-03-18
+440,Google Reviews,BigBasket,The product page says it will be delivered by Friday.,Neutral,2923,228,2026-03-28
+441,Facebook,Amazon,Seamless checkout experience. Will recommend to all my friends.,Positive,1455,746,2026-03-03
+442,Twitter,Amazon,Scrolling through my order history from last month.,Neutral,4934,325,2026-03-24
+443,Instagram,Apple,Notification says my cashback will be credited in 2 days. #disappointed,Neutral,637,243,2026-03-14
+444,Facebook,Uber Eats,The customer care team was empathetic and resolved my issue fast.,Positive,93,271,2026-03-09
+445,Twitter,Zomato,App update is smooth and the UI looks amazing now. #feedback,Positive,394,395,2026-03-21
+446,Reddit,Samsung,Browsing through Flipkart for some deals. #happy,Neutral,2877,559,2026-03-16
+447,Reddit,Netflix,Customer support put me on hold for a few minutes.,Neutral,273,301,2026-03-02
+448,Facebook,Amazon,Paid for premium but still seeing ads. This is unacceptable.,Negative,3075,164,2026-03-29
+449,Google Reviews,BigBasket,The delivery partner called to confirm the address. #disappointed,Neutral,3954,721,2026-03-02
+450,Twitter,Netflix,The customer care team was empathetic and resolved my issue fast.,Positive,2712,210,2026-03-10
+451,Facebook,Swiggy,The delivery partner called to confirm the address.,Neutral,1945,98,2026-03-02
+452,Twitter,Apple,Scrolling through my order history from last month.,Neutral,31,437,2026-03-04
+453,Twitter,Flipkart,Customer support put me on hold for a few minutes.,Neutral,1399,653,2026-03-11
+454,Reddit,Uber Eats,Got a notification about a flash sale starting tomorrow. #disappointed,Neutral,4006,916,2026-03-27
+455,Facebook,Samsung,The movie recommendation on Netflix was spot on. Loved it!,Positive,3026,191,2026-03-19
+456,Facebook,Flipkart,Paid for premium but still seeing ads. This is unacceptable.,Negative,2200,577,2026-03-01
+457,Facebook,Myntra,Packaging was eco-friendly and the product was intact. Great job.,Positive,3391,994,2026-03-24
+458,Google Reviews,Samsung,The delivery partner called to confirm the address. #disappointed,Neutral,4386,703,2026-03-20
+459,Twitter,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,284,514,2026-03-25
+460,Reddit,Amazon,Scrolling through my order history from last month.,Neutral,1369,995,2026-03-11
+461,Reddit,Netflix,The live streaming feature is buttery smooth. 10/10 experience.,Positive,3566,206,2026-03-27
+462,Twitter,Netflix,Paid for premium but still seeing ads. This is unacceptable.,Negative,3179,569,2026-03-17
+463,Reddit,Zomato,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,4813,535,2026-03-16
+464,Google Reviews,BigBasket,Browsing through Flipkart for some deals.,Neutral,4773,776,2026-03-04
+465,Google Reviews,Apple,Notification says my cashback will be credited in 2 days. #disappointed,Neutral,3366,270,2026-03-18
+466,Instagram,Swiggy,The product page says it will be delivered by Friday.,Neutral,3301,147,2026-03-25
+467,Facebook,Flipkart,Just renewed my Netflix subscription for another month. #disappointed,Neutral,403,763,2026-03-19
+468,Facebook,Swiggy,Packaging was terrible. Product was broken on arrival. #disappointed,Negative,2296,863,2026-03-21
+469,Facebook,Uber Eats,Packaging was eco-friendly and the product was intact. Great job!,Positive,2628,275,2026-03-30
+470,Instagram,Samsung,The movie recommendation on Netflix was spot on. Loved it! #happy,Positive,3968,777,2026-03-23
+471,Instagram,Netflix,Packaging was terrible. Product was broken on arrival.,Negative,2548,726,2026-03-22
+472,Instagram,Flipkart,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,472,255,2026-03-02
+473,Instagram,Swiggy,Had the best experience at this restaurant. Will definitely visit again.,Positive,3017,843,2026-03-20
+474,Twitter,Flipkart,Placed my Zomato order. Waiting for delivery.,Neutral,3051,500,2026-03-25
+475,Google Reviews,Apple,Seamless checkout experience. Will recommend to all my friends.,Positive,2820,167,2026-03-13
+476,Reddit,Zomato,The movie recommendation on Netflix was spot on. Loved it!,Positive,1334,874,2026-03-26
+477,Instagram,Flipkart,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,2204,667,2026-03-17
+478,Instagram,Amazon,Amazon Prime delivery in just 1 day! Great experience as always. #disappointed,Positive,4924,820,2026-03-02
+479,Facebook,Samsung,App crashes every time I try to checkout. Fix your bugs.,Negative,3084,872,2026-03-15
+480,Facebook,Myntra,App crashes every time I try to checkout. Fix your bugs! #happy,Negative,3253,598,2026-03-04
+481,Google Reviews,BigBasket,Reading product reviews before making a decision.,Neutral,2315,305,2026-03-27
+482,Facebook,Apple,Customer support put me on hold for a few minutes. #disappointed,Neutral,2268,267,2026-03-28
+483,Google Reviews,Flipkart,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,465,824,2026-03-25
+484,Twitter,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,2421,265,2026-03-17
+485,Google Reviews,Flipkart,This app is the biggest scam. Taking money without delivering service.,Negative,2811,743,2026-03-29
+486,Facebook,Myntra,Checked the price comparison across multiple platforms.,Neutral,2459,865,2026-03-08
+487,Twitter,Uber Eats,Downloaded the receipt for my recent purchase. #happy,Neutral,1048,758,2026-03-13
+488,Facebook,Netflix,Downloaded the receipt for my recent purchase.,Neutral,1820,363,2026-03-10
+489,Facebook,Swiggy,The new update broke all my preferences. Terrible UX design.,Negative,4796,301,2026-03-21
+490,Google Reviews,BigBasket,Delivery boy was very polite and on time. Appreciate it.,Positive,583,483,2026-03-10
+491,Facebook,Samsung,Delivery boy was very polite and on time. Appreciate it.,Positive,442,891,2026-03-06
+492,Google Reviews,Uber Eats,Zomato order was 2 hours late and food arrived cold. Disgusting! #feedback,Negative,1173,323,2026-03-29
+493,Instagram,Apple,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,475,4,2026-03-19
+494,Instagram,Uber Eats,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,721,132,2026-03-25
+495,Reddit,Samsung,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,38,38,2026-03-22
+496,Google Reviews,Flipkart,Packaging was terrible. Product was broken on arrival. #disappointed,Negative,146,692,2026-03-03
+497,Facebook,Swiggy,Worst delivery experience ever. Package arrived torn and dirty.,Negative,1056,105,2026-03-17
+498,Twitter,Swiggy,The new update broke all my preferences. Terrible UX design.,Negative,2382,466,2026-03-30
+499,Instagram,Apple,The app is asking for a software update. #feedback,Neutral,4015,367,2026-03-09
+500,Instagram,Amazon,Just renewed my Netflix subscription for another month.,Neutral,1730,751,2026-03-02
+501,Facebook,Zomato,Saw an advertisement for a new show on Netflix.,Neutral,3073,897,2026-03-27
+502,Twitter,Netflix,Checked the price comparison across multiple platforms.,Neutral,161,49,2026-03-29
+503,Twitter,Myntra,Browsing through Flipkart for some deals.,Neutral,2070,485,2026-03-29
+504,Reddit,Netflix,Netflix keeps buffering even on high-speed internet. Very frustrating. #disappointed,Negative,4262,276,2026-03-25
+505,Google Reviews,BigBasket,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,964,289,2026-03-06
+506,Google Reviews,Flipkart,Super impressed with the quick refund. Will shop again.,Positive,2154,851,2026-03-22
+507,Instagram,Zomato,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,4490,508,2026-03-10
+508,Twitter,Zomato,Customer support put me on hold for a few minutes.,Neutral,729,928,2026-03-06
+509,Twitter,Myntra,Scrolling through my order history from last month.,Neutral,614,740,2026-03-29
+510,Facebook,Swiggy,App crashes every time I try to checkout. Fix your bugs! #happy,Negative,3803,51,2026-03-06
+511,Facebook,Apple,Seamless checkout experience. Will recommend to all my friends. #disappointed,Positive,3489,756,2026-03-04
+512,Instagram,Apple,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,2928,915,2026-03-20
+513,Facebook,Amazon,Product is fake. The quality is terrible compared to what was shown. #disappointed,Negative,932,410,2026-03-17
+514,Reddit,Samsung,Product is fake. The quality is terrible compared to what was shown.,Negative,1366,115,2026-03-08
+515,Reddit,BigBasket,Customer support was very helpful and patient. 5 stars!,Positive,3954,821,2026-03-25
+516,Reddit,Apple,Just downloaded the latest update on my phone.,Neutral,236,883,2026-03-28
+517,Twitter,Samsung,Best pizza I've ever had. Ordered again the same evening.,Positive,3610,47,2026-03-04
+518,Google Reviews,BigBasket,Driver couldn't find my location despite sharing live location.,Negative,4628,229,2026-03-29
+519,Instagram,Uber Eats,Video quality drops every 5 minutes. Unwatchable experience. #disappointed,Negative,2832,679,2026-03-28
+520,Google Reviews,Zomato,This app is the biggest scam. Taking money without delivering service.,Negative,95,658,2026-03-07
+521,Twitter,Uber Eats,Got a notification about a flash sale starting tomorrow.,Neutral,2626,246,2026-03-14
+522,Reddit,Samsung,Had the best experience at this restaurant. Will definitely visit again.,Positive,1925,80,2026-03-20
+523,Reddit,Uber Eats,Scrolling through my order history from last month.,Neutral,2589,121,2026-03-21
+524,Reddit,Zomato,Amazon Prime delivery in just 1 day! Great experience as always. #disappointed,Positive,4564,562,2026-03-03
+525,Google Reviews,Flipkart,The movie recommendation on Netflix was spot on. Loved it.,Positive,3737,973,2026-03-15
+526,Facebook,Myntra,Had the best experience at this restaurant. Will definitely visit again! #happy,Positive,4914,484,2026-03-31
+527,Twitter,Flipkart,Chatbot is completely useless and never connects to a human agent.,Negative,17,349,2026-03-16
+528,Twitter,Zomato,Three-day delivery turned into three weeks. No updates at all.,Negative,1344,504,2026-03-08
+529,Google Reviews,Flipkart,Received the Amazon package. Will open it later. #disappointed,Neutral,1536,123,2026-03-17
+530,Facebook,Netflix,Received an email about a new product launch.,Neutral,3395,47,2026-03-28
+531,Google Reviews,Myntra,Delivery boy was very polite and on time. Appreciate it.,Positive,1102,986,2026-03-19
+532,Reddit,BigBasket,The app is asking for a software update.,Neutral,3956,946,2026-03-23
+533,Instagram,Netflix,Seamless checkout experience. Will recommend to all my friends.,Positive,3173,673,2026-03-25
+534,Google Reviews,Flipkart,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,2241,407,2026-03-14
+535,Reddit,BigBasket,Checked my order status. It says out for delivery.,Neutral,4196,306,2026-03-30
+536,Instagram,BigBasket,Driver couldn't find my location despite sharing live location.,Negative,2380,703,2026-03-15
+537,Google Reviews,Apple,Best pizza I've ever had. Ordered again the same evening.,Positive,945,779,2026-03-15
+538,Google Reviews,Swiggy,Customer support put me on hold for a few minutes.,Neutral,3460,827,2026-03-02
+539,Instagram,Zomato,Super impressed with the quick refund. Will shop again. #disappointed,Positive,463,204,2026-03-13
+540,Facebook,Amazon,Great sound quality on these earphones. Best buy of the year.,Positive,508,707,2026-03-12
+541,Reddit,Netflix,Received a confirmation SMS for my booking. #disappointed,Neutral,4602,885,2026-03-10
+542,Google Reviews,Swiggy,Downloaded the receipt for my recent purchase.,Neutral,384,948,2026-03-17
+543,Twitter,Zomato,Browsing through Flipkart for some deals.,Neutral,2058,207,2026-03-26
+544,Facebook,BigBasket,Just downloaded the latest update on my phone.,Neutral,4477,756,2026-03-24
+545,Instagram,Netflix,The live streaming feature is buttery smooth. 10/10 experience. #feedback,Positive,1531,985,2026-03-08
+546,Twitter,Samsung,Reading product reviews before making a decision. #disappointed,Neutral,2286,569,2026-03-11
+547,Facebook,Uber Eats,Great sound quality on these earphones. Best buy of the year!,Positive,1268,40,2026-03-07
+548,Google Reviews,Myntra,Had the best experience at this restaurant. Will definitely visit again! #feedback,Positive,2933,74,2026-03-30
+549,Google Reviews,Netflix,The app is asking for a software update.,Neutral,4138,163,2026-03-17
+550,Facebook,Flipkart,Checked the price comparison across multiple platforms.,Neutral,1747,679,2026-03-14
+551,Google Reviews,Myntra,Chatbot is completely useless and never connects to a human agent.,Negative,3890,574,2026-03-26
+552,Instagram,BigBasket,Love the new features in the latest app update. So intuitive! #feedback,Positive,1997,981,2026-03-03
+553,Reddit,Swiggy,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,4425,741,2026-03-11
+554,Google Reviews,Uber Eats,Order tracking shows the package is in transit.,Neutral,3987,44,2026-03-13
+555,Twitter,Netflix,The live streaming feature is buttery smooth. 10/10 experience.,Positive,1371,994,2026-03-23
+556,Instagram,Samsung,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,851,210,2026-03-23
+557,Instagram,Zomato,The app asked me to rate my recent experience.,Neutral,3761,734,2026-03-14
+558,Instagram,Swiggy,The movie recommendation on Netflix was spot on. Loved it!,Positive,4571,72,2026-03-26
+559,Reddit,Uber Eats,Swiggy cancelled my order without notice. Wasted my dinner plans. #feedback,Negative,3313,443,2026-03-14
+560,Twitter,BigBasket,This app is the biggest scam. Taking money without delivering service.,Negative,518,774,2026-03-30
+561,Google Reviews,Netflix,The new iPhone camera quality is outstanding. Apple never disappoints. #disappointed,Positive,2374,805,2026-03-27
+562,Reddit,Samsung,The movie recommendation on Netflix was spot on. Loved it! #feedback,Positive,252,485,2026-03-07
+563,Reddit,Myntra,Flipkart customer support is completely useless. Never buying again.,Negative,2416,983,2026-03-27
+564,Google Reviews,Myntra,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1158,126,2026-03-01
+565,Google Reviews,Netflix,Scrolling through my order history from last month.,Neutral,2496,215,2026-03-31
+566,Google Reviews,Amazon,The refund was not credited even after 15 days. Chasing support. #happy,Negative,1318,188,2026-03-10
+567,Instagram,BigBasket,App crashes every time I try to checkout. Fix your bugs!,Negative,445,871,2026-03-22
+568,Twitter,Swiggy,The delivery partner called to confirm the address. #disappointed,Neutral,804,202,2026-03-30
+569,Instagram,Flipkart,The product page says it will be delivered by Friday. #feedback,Neutral,819,291,2026-03-24
+570,Reddit,Apple,The live streaming feature is buttery smooth. 10/10 experience. #feedback,Positive,2504,710,2026-03-24
+571,Reddit,Amazon,Notification says my cashback will be credited in 2 days. #feedback,Neutral,39,320,2026-03-11
+572,Facebook,Amazon,Flipkart customer support is completely useless. Never buying again.,Negative,2716,898,2026-03-20
+573,Reddit,Myntra,Checked my order status. It says out for delivery. #feedback,Neutral,891,179,2026-03-28
+574,Google Reviews,Flipkart,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,2156,751,2026-03-26
+575,Twitter,BigBasket,Product quality exceeded my expectations. Highly recommended.,Positive,4742,414,2026-03-24
+576,Google Reviews,Uber Eats,Swiggy support resolved my issue within minutes. Excellent service.,Positive,1217,374,2026-03-17
+577,Google Reviews,Myntra,Three-day delivery turned into three weeks. No updates at all. #happy,Negative,741,406,2026-03-15
+578,Instagram,Myntra,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,1149,456,2026-03-06
+579,Reddit,Apple,Notification says my cashback will be credited in 2 days.,Neutral,331,224,2026-03-19
+580,Instagram,Zomato,App update is smooth and the UI looks amazing now. #feedback,Positive,1693,530,2026-03-15
+581,Twitter,Apple,Got a notification about a flash sale starting tomorrow.,Neutral,845,720,2026-03-23
+582,Google Reviews,BigBasket,Received wrong item and now customer care is not picking up.,Negative,1424,385,2026-03-27
+583,Facebook,Samsung,Chatbot is completely useless and never connects to a human agent.,Negative,1825,528,2026-03-17
+584,Google Reviews,Zomato,The refund was not credited even after 15 days. Chasing support.,Negative,4111,903,2026-03-07
+585,Google Reviews,Swiggy,The customer care team was empathetic and resolved my issue fast.,Positive,1732,153,2026-03-06
+586,Instagram,Samsung,Chatbot is completely useless and never connects to a human agent.,Negative,2705,737,2026-03-05
+587,Google Reviews,Amazon,Customer support put me on hold for a few minutes.,Neutral,3366,22,2026-03-09
+588,Google Reviews,Zomato,Best pizza I've ever had. Ordered again the same evening.,Positive,4688,150,2026-03-01
+589,Reddit,BigBasket,Paid for premium but still seeing ads. This is unacceptable.,Negative,4617,652,2026-03-03
+590,Reddit,BigBasket,Food was absolutely stale. Had food poisoning after eating this.,Negative,3861,888,2026-03-19
+591,Instagram,BigBasket,Flipkart customer support is completely useless. Never buying again.,Negative,1489,638,2026-03-28
+592,Facebook,Uber Eats,Paid for premium but still seeing ads. This is unacceptable.,Negative,4886,604,2026-03-04
+593,Twitter,Zomato,Size chart is completely wrong. Returned the item immediately.,Negative,1657,535,2026-03-23
+594,Twitter,Amazon,Browsing through Flipkart for some deals.,Neutral,3898,923,2026-03-25
+595,Reddit,Amazon,Swiggy support resolved my issue within minutes. Excellent service!,Positive,4943,552,2026-03-03
+596,Twitter,Myntra,The app asked me to rate my recent experience.,Neutral,3514,234,2026-03-21
+597,Google Reviews,Netflix,Size chart is completely wrong. Returned the item immediately.,Negative,3485,137,2026-03-12
+598,Google Reviews,Myntra,Swiggy cancelled my order without notice. Wasted my dinner plans. #disappointed,Negative,3347,263,2026-03-09
+599,Twitter,Samsung,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,1682,704,2026-03-15
+600,Reddit,BigBasket,Chatbot is completely useless and never connects to a human agent.,Negative,2077,267,2026-03-22
+601,Facebook,Samsung,Notification says my cashback will be credited in 2 days.,Neutral,1668,423,2026-03-23
+602,Facebook,Myntra,Downloaded the receipt for my recent purchase.,Neutral,4545,495,2026-03-12
+603,Reddit,Amazon,Scrolling through my order history from last month.,Neutral,975,765,2026-03-10
+604,Google Reviews,Samsung,Great sound quality on these earphones. Best buy of the year!,Positive,2772,820,2026-03-23
+605,Twitter,Netflix,Had the best experience at this restaurant. Will definitely visit again! #happy,Positive,1190,482,2026-03-25
+606,Instagram,Apple,The movie recommendation on Netflix was spot on. Loved it! #disappointed,Positive,655,623,2026-03-03
+607,Google Reviews,Swiggy,This app is the biggest scam. Taking money without delivering service.,Negative,4894,58,2026-03-08
+608,Instagram,Myntra,Logged into the app to check my order history.,Neutral,2342,199,2026-03-03
+609,Instagram,Zomato,Reading product reviews before making a decision.,Neutral,2946,244,2026-03-26
+610,Reddit,Apple,Great sound quality on these earphones. Best buy of the year! #disappointed,Positive,3237,415,2026-03-24
+611,Twitter,Netflix,Order tracking shows the package is in transit.,Neutral,4502,291,2026-03-31
+612,Facebook,Flipkart,Downloaded the receipt for my recent purchase. #feedback,Neutral,4967,986,2026-03-10
+613,Instagram,Samsung,Just renewed my Netflix subscription for another month. #disappointed,Neutral,4147,109,2026-03-21
+614,Twitter,Myntra,Saw an advertisement for a new show on Netflix. #feedback,Neutral,2111,897,2026-03-23
+615,Reddit,Samsung,Scrolling through my order history from last month.,Neutral,4613,495,2026-03-11
+616,Reddit,BigBasket,Video quality drops every 5 minutes. Unwatchable experience.,Negative,224,493,2026-03-04
+617,Instagram,Flipkart,App update is smooth and the UI looks amazing now.,Positive,2586,422,2026-03-15
+618,Facebook,Flipkart,Checked the price comparison across multiple platforms.,Neutral,2353,95,2026-03-18
+619,Instagram,Uber Eats,Video quality drops every 5 minutes. Unwatchable experience.,Negative,2571,362,2026-03-10
+620,Instagram,Uber Eats,Product is fake. The quality is terrible compared to what was shown.,Negative,1635,240,2026-03-29
+621,Instagram,Flipkart,Paid for premium but still seeing ads. This is unacceptable.,Negative,2916,159,2026-03-04
+622,Twitter,Myntra,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,346,868,2026-03-20
+623,Facebook,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,1498,782,2026-03-22
+624,Instagram,Zomato,Placed my Zomato order. Waiting for delivery.,Neutral,4306,818,2026-03-17
+625,Facebook,Samsung,Received a confirmation SMS for my booking.,Neutral,1431,468,2026-03-05
+626,Twitter,Zomato,Order tracking shows the package is in transit.,Neutral,1726,388,2026-03-24
+627,Facebook,Amazon,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,4493,269,2026-03-09
+628,Instagram,Uber Eats,Got a notification about a flash sale starting tomorrow. #feedback,Neutral,3472,215,2026-03-18
+629,Facebook,Uber Eats,Packaging was terrible. Product was broken on arrival. #feedback,Negative,1473,585,2026-03-07
+630,Facebook,Flipkart,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,4549,442,2026-03-17
+631,Twitter,Amazon,The subscription plan is affordable and the content is top-notch. #happy,Positive,3453,511,2026-03-08
+632,Facebook,Swiggy,Order tracking shows the package is in transit. #feedback,Neutral,4605,879,2026-03-24
+633,Instagram,Zomato,Placed my Zomato order. Waiting for delivery.,Neutral,1765,833,2026-03-12
+634,Facebook,Swiggy,Packaging was eco-friendly and the product was intact. Great job.,Positive,2957,368,2026-03-23
+635,Reddit,Netflix,App crashes every time I try to checkout. Fix your bugs!,Negative,2876,888,2026-03-28
+636,Facebook,Apple,Zomato order was 2 hours late and food arrived cold. Disgusting! #happy,Negative,4181,499,2026-03-30
+637,Facebook,Uber Eats,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,1186,889,2026-03-08
+638,Google Reviews,BigBasket,Video quality drops every 5 minutes. Unwatchable experience.,Negative,3315,869,2026-03-04
+639,Facebook,Apple,Great sound quality on these earphones. Best buy of the year!,Positive,2386,727,2026-03-13
+640,Facebook,BigBasket,Placed my Zomato order. Waiting for delivery. #feedback,Neutral,4267,988,2026-03-20
+641,Instagram,Flipkart,The customer care team was empathetic and resolved my issue fast.,Positive,2061,963,2026-03-31
+642,Reddit,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,782,65,2026-03-20
+643,Google Reviews,Netflix,Had the best experience at this restaurant. Will definitely visit again! #disappointed,Positive,851,268,2026-03-24
+644,Instagram,Flipkart,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,2327,453,2026-03-27
+645,Twitter,Apple,Best pizza I've ever had. Ordered again the same evening.,Positive,2664,884,2026-03-20
+646,Reddit,Amazon,Received a confirmation SMS for my booking.,Neutral,4417,181,2026-03-25
+647,Google Reviews,Swiggy,Received an email about a new product launch.,Neutral,2844,493,2026-03-22
+648,Facebook,Samsung,The movie recommendation on Netflix was spot on. Loved it!,Positive,2128,159,2026-03-11
+649,Facebook,Uber Eats,Zomato delivery was super fast today! Loved the packaging 🎉 #happy,Positive,4383,8,2026-03-30
+650,Reddit,Swiggy,Customer support put me on hold for a few minutes.,Neutral,4890,236,2026-03-02
+651,Google Reviews,Samsung,Packaging was terrible. Product was broken on arrival. #happy,Negative,3233,255,2026-03-08
+652,Facebook,Netflix,This app is the biggest scam. Taking money without delivering service.,Negative,3458,640,2026-03-10
+653,Google Reviews,Swiggy,Product is fake. The quality is terrible compared to what was shown.,Negative,3382,192,2026-03-04
+654,Reddit,BigBasket,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,3709,278,2026-03-30
+655,Twitter,Amazon,The product page says it will be delivered by Friday. #happy,Neutral,406,992,2026-03-21
+656,Facebook,Amazon,Food was delicious and portions were generous. Worth every rupee. #disappointed,Positive,3591,744,2026-03-02
+657,Reddit,Flipkart,The movie recommendation on Netflix was spot on. Loved it!,Positive,2800,430,2026-03-13
+658,Twitter,Apple,Logged into the app to check my order history. #feedback,Neutral,657,863,2026-03-06
+659,Google Reviews,Uber Eats,Product is fake. The quality is terrible compared to what was shown.,Negative,1487,196,2026-03-13
+660,Instagram,Samsung,Size chart is completely wrong. Returned the item immediately.,Negative,3628,253,2026-03-29
+661,Twitter,Myntra,Zomato order was 2 hours late and food arrived cold. Disgusting.,Negative,1707,484,2026-03-18
+662,Twitter,Myntra,The new update broke all my preferences. Terrible UX design.,Negative,4267,125,2026-03-12
+663,Twitter,Flipkart,Prices are misleading. Hidden charges at checkout are ridiculous. #happy,Negative,925,241,2026-03-27
+664,Facebook,BigBasket,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,980,405,2026-03-09
+665,Google Reviews,Amazon,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,3042,789,2026-03-04
+666,Google Reviews,Apple,Great sound quality on these earphones. Best buy of the year!,Positive,491,61,2026-03-15
+667,Reddit,Flipkart,Really happy with my purchase. Exactly as described online.,Positive,2594,571,2026-03-28
+668,Instagram,Zomato,The refund was not credited even after 15 days. Chasing support.,Negative,3094,366,2026-03-29
+669,Reddit,Myntra,App crashes every time I try to checkout. Fix your bugs! #disappointed,Negative,2414,555,2026-03-30
+670,Facebook,Apple,The live streaming feature is buttery smooth. 10/10 experience.,Positive,3837,281,2026-03-26
+671,Google Reviews,Amazon,The delivery partner called to confirm the address.,Neutral,3681,302,2026-03-12
+672,Google Reviews,Samsung,Chatbot is completely useless and never connects to a human agent.,Negative,1519,904,2026-03-03
+673,Twitter,Myntra,Chatbot is completely useless and never connects to a human agent. #happy,Negative,3174,194,2026-03-23
+674,Facebook,Apple,Logged into the app to check my order history.,Neutral,3357,656,2026-03-14
+675,Instagram,Amazon,Packaging was eco-friendly and the product was intact. Great job!,Positive,256,206,2026-03-05
+676,Google Reviews,Samsung,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4013,538,2026-03-26
+677,Instagram,BigBasket,App crashes every time I try to checkout. Fix your bugs! #disappointed,Negative,580,13,2026-03-10
+678,Twitter,Apple,The product page says it will be delivered by Friday. #disappointed,Neutral,4571,761,2026-03-18
+679,Facebook,Myntra,Packaging was terrible. Product was broken on arrival.,Negative,333,751,2026-03-06
+680,Google Reviews,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,829,742,2026-03-10
+681,Google Reviews,Flipkart,This app is the biggest scam. Taking money without delivering service.,Negative,4669,640,2026-03-07
+682,Twitter,BigBasket,Downloaded the receipt for my recent purchase.,Neutral,2932,690,2026-03-20
+683,Instagram,Myntra,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,3289,516,2026-03-15
+684,Facebook,Myntra,Great sound quality on these earphones. Best buy of the year!,Positive,2659,865,2026-03-15
+685,Instagram,BigBasket,The app asked me to rate my recent experience.,Neutral,4469,219,2026-03-18
+686,Reddit,Uber Eats,The delivery partner called to confirm the address. #feedback,Neutral,3252,0,2026-03-29
+687,Instagram,Swiggy,Food was absolutely stale. Had food poisoning after eating this.,Negative,53,307,2026-03-09
+688,Facebook,Myntra,Driver couldn't find my location despite sharing live location.,Negative,4188,569,2026-03-25
+689,Reddit,Apple,Really happy with my purchase. Exactly as described online.,Positive,1278,141,2026-03-12
+690,Facebook,Swiggy,The help center page loaded with a list of FAQs.,Neutral,752,584,2026-03-18
+691,Facebook,Uber Eats,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,1416,499,2026-03-31
+692,Facebook,Zomato,Scrolling through my order history from last month.,Neutral,4720,390,2026-03-06
+693,Reddit,Samsung,Customer support was very helpful and patient. 5 stars! #feedback,Positive,987,890,2026-03-10
+694,Facebook,Myntra,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,337,326,2026-03-23
+695,Instagram,Amazon,Really happy with my purchase. Exactly as described online.,Positive,413,689,2026-03-30
+696,Reddit,Swiggy,Checked my order status. It says out for delivery.,Neutral,3230,151,2026-03-07
+697,Twitter,Myntra,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,3270,268,2026-03-05
+698,Instagram,Amazon,Saw an advertisement for a new show on Netflix.,Neutral,3939,572,2026-03-10
+699,Google Reviews,Myntra,Placed my Zomato order. Waiting for delivery.,Neutral,2017,248,2026-03-04
+700,Google Reviews,Netflix,The app asked me to rate my recent experience.,Neutral,921,687,2026-03-17
+701,Facebook,Apple,Chatbot is completely useless and never connects to a human agent.,Negative,4865,671,2026-03-03
+702,Google Reviews,Uber Eats,The new update broke all my preferences. Terrible UX design. #happy,Negative,1194,451,2026-03-03
+703,Facebook,Amazon,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,702,115,2026-03-29
+704,Twitter,Apple,Worst delivery experience ever. Package arrived torn and dirty. #happy,Negative,911,312,2026-03-20
+705,Google Reviews,Flipkart,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,1669,559,2026-03-23
+706,Instagram,Zomato,Paid for premium but still seeing ads. This is unacceptable.,Negative,3085,596,2026-03-28
+707,Twitter,Swiggy,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,1644,808,2026-03-30
+708,Twitter,Netflix,Product is fake. The quality is terrible compared to what was shown. #disappointed,Negative,3183,676,2026-03-13
+709,Facebook,Samsung,Chatbot is completely useless and never connects to a human agent.,Negative,1893,389,2026-03-23
+710,Google Reviews,Myntra,Packaging was eco-friendly and the product was intact. Great job! #feedback,Positive,721,190,2026-03-10
+711,Instagram,Myntra,Received an email about a new product launch.,Neutral,2497,341,2026-03-20
+712,Facebook,Apple,Great sound quality on these earphones. Best buy of the year! #disappointed,Positive,2476,241,2026-03-22
+713,Twitter,Myntra,Customer support was very helpful and patient. 5 stars! #feedback,Positive,2295,230,2026-03-07
+714,Reddit,Myntra,Placed my Zomato order. Waiting for delivery.,Neutral,1863,427,2026-03-10
+715,Google Reviews,Apple,Really happy with my purchase. Exactly as described online.,Positive,3679,555,2026-03-06
+716,Facebook,Myntra,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,1107,440,2026-03-08
+717,Twitter,Myntra,Notification says my cashback will be credited in 2 days. #happy,Neutral,4366,971,2026-03-29
+718,Twitter,Apple,Food was delicious and portions were generous. Worth every rupee.,Positive,3391,984,2026-03-17
+719,Instagram,Netflix,Just downloaded the latest update on my phone.,Neutral,1077,189,2026-03-03
+720,Instagram,Flipkart,Product is fake. The quality is terrible compared to what was shown.,Negative,213,367,2026-03-05
+721,Google Reviews,Uber Eats,Customer support put me on hold for a few minutes.,Neutral,3063,188,2026-03-17
+722,Instagram,Flipkart,Got a notification about a flash sale starting tomorrow.,Neutral,264,418,2026-03-02
+723,Instagram,Flipkart,Received the Amazon package. Will open it later.,Neutral,541,181,2026-03-21
+724,Instagram,Samsung,The product page says it will be delivered by Friday. #feedback,Neutral,3316,794,2026-03-03
+725,Google Reviews,BigBasket,Size chart is completely wrong. Returned the item immediately. #feedback,Negative,4864,549,2026-03-23
+726,Reddit,Zomato,Swiggy support resolved my issue within minutes. Excellent service! #disappointed,Positive,2012,531,2026-03-22
+727,Twitter,Flipkart,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,2385,450,2026-03-17
+728,Reddit,Swiggy,Food was absolutely stale. Had food poisoning after eating this.,Negative,446,706,2026-03-22
+729,Google Reviews,Netflix,The restaurant menu had a lot of options to choose from.,Neutral,1472,797,2026-03-26
+730,Reddit,Apple,Received a confirmation SMS for my booking. #happy,Neutral,3693,25,2026-03-07
+731,Facebook,Apple,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,1343,735,2026-03-29
+732,Reddit,Apple,The movie recommendation on Netflix was spot on. Loved it.,Positive,698,536,2026-03-30
+733,Google Reviews,Samsung,Reading product reviews before making a decision. #happy,Neutral,359,786,2026-03-07
+734,Instagram,Amazon,Notification says my cashback will be credited in 2 days.,Neutral,420,429,2026-03-12
+735,Instagram,Netflix,Checked my order status. It says out for delivery.,Neutral,1077,983,2026-03-09
+736,Reddit,Uber Eats,App crashes every time I try to checkout. Fix your bugs! #disappointed,Negative,4452,826,2026-03-03
+737,Google Reviews,Uber Eats,Logged into the app to check my order history.,Neutral,3717,419,2026-03-19
+738,Facebook,BigBasket,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,4567,839,2026-03-09
+739,Facebook,Zomato,Food was delicious and portions were generous. Worth every rupee.,Positive,1190,874,2026-03-03
+740,Twitter,Zomato,Scrolling through my order history from last month. #feedback,Neutral,892,426,2026-03-06
+741,Google Reviews,Apple,Food was absolutely stale. Had food poisoning after eating this. #happy,Negative,293,95,2026-03-12
+742,Reddit,Myntra,Packaging was terrible. Product was broken on arrival.,Negative,531,299,2026-03-19
+743,Google Reviews,Samsung,Delivery boy was very polite and on time. Appreciate it. #feedback,Positive,4297,214,2026-03-29
+744,Google Reviews,Netflix,Customer support was very helpful and patient. 5 stars.,Positive,3962,741,2026-03-30
+745,Facebook,Swiggy,Food was absolutely stale. Had food poisoning after eating this.,Negative,4304,588,2026-03-25
+746,Reddit,Uber Eats,Best pizza I've ever had. Ordered again the same evening.,Positive,1473,904,2026-03-24
+747,Twitter,Zomato,Three-day delivery turned into three weeks. No updates at all.,Negative,3808,640,2026-03-05
+748,Twitter,Apple,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,2864,573,2026-03-27
+749,Facebook,Swiggy,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,555,315,2026-03-12
+750,Twitter,Apple,The delivery partner called to confirm the address.,Neutral,2796,405,2026-03-30
+751,Facebook,Apple,Flipkart sale saved me so much money. Totally worth it!,Positive,3924,938,2026-03-21
+752,Instagram,Uber Eats,Swiggy support resolved my issue within minutes. Excellent service! #happy,Positive,4398,917,2026-03-15
+753,Facebook,BigBasket,Received the Amazon package. Will open it later.,Neutral,2584,568,2026-03-21
+754,Twitter,Amazon,Netflix keeps buffering even on high-speed internet. Very frustrating. #feedback,Negative,2297,860,2026-03-02
+755,Google Reviews,Samsung,Size chart is completely wrong. Returned the item immediately.,Negative,1535,609,2026-03-06
+756,Twitter,Swiggy,The new update broke all my preferences. Terrible UX design.,Negative,3390,88,2026-03-19
+757,Instagram,Myntra,Packaging was terrible. Product was broken on arrival.,Negative,2476,179,2026-03-04
+758,Reddit,Myntra,Swiggy support resolved my issue within minutes. Excellent service!,Positive,204,818,2026-03-20
+759,Reddit,Myntra,Really happy with my purchase. Exactly as described online. #happy,Positive,2542,794,2026-03-14
+760,Twitter,Uber Eats,Packaging was eco-friendly and the product was intact. Great job!,Positive,3175,730,2026-03-21
+761,Google Reviews,Netflix,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,2730,478,2026-03-01
+762,Google Reviews,Swiggy,Order tracking shows the package is in transit.,Neutral,1719,328,2026-03-09
+763,Facebook,Uber Eats,Food was absolutely stale. Had food poisoning after eating this.,Negative,963,279,2026-03-06
+764,Google Reviews,Myntra,Received wrong item and now customer care is not picking up.,Negative,4211,104,2026-03-10
+765,Instagram,Swiggy,The refund was not credited even after 15 days. Chasing support. #feedback,Negative,4702,250,2026-03-06
+766,Reddit,Zomato,The new update broke all my preferences. Terrible UX design.,Negative,1065,29,2026-03-20
+767,Twitter,Netflix,Had the best experience at this restaurant. Will definitely visit again! #disappointed,Positive,3493,401,2026-03-08
+768,Facebook,Flipkart,Checked my order status. It says out for delivery. #feedback,Neutral,4370,80,2026-03-20
+769,Reddit,Netflix,Best pizza I've ever had. Ordered again the same evening.,Positive,3732,317,2026-03-28
+770,Instagram,Amazon,The restaurant menu had a lot of options to choose from.,Neutral,2113,934,2026-03-15
+771,Reddit,Uber Eats,Food was delicious and portions were generous. Worth every rupee. #feedback,Positive,247,66,2026-03-19
+772,Instagram,Swiggy,The refund was not credited even after 15 days. Chasing support.,Negative,2855,618,2026-03-24
+773,Twitter,Apple,Reading product reviews before making a decision. #disappointed,Neutral,4555,665,2026-03-06
+774,Google Reviews,Samsung,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1954,635,2026-03-10
+775,Twitter,Apple,Great sound quality on these earphones. Best buy of the year!,Positive,1705,833,2026-03-30
+776,Facebook,Myntra,The app asked me to rate my recent experience.,Neutral,1934,177,2026-03-28
+777,Google Reviews,BigBasket,Product quality exceeded my expectations. Highly recommended!,Positive,3792,333,2026-03-21
+778,Reddit,Netflix,Just downloaded the latest update on my phone. #happy,Neutral,4900,111,2026-03-28
+779,Twitter,Netflix,Size chart is completely wrong. Returned the item immediately. #feedback,Negative,1782,836,2026-03-07
+780,Instagram,Uber Eats,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,4352,298,2026-03-18
+781,Instagram,Apple,Scrolling through my order history from last month.,Neutral,2455,583,2026-03-27
+782,Google Reviews,Zomato,The app asked me to rate my recent experience.,Neutral,4181,413,2026-03-08
+783,Google Reviews,Zomato,Three-day delivery turned into three weeks. No updates at all. #disappointed,Negative,6,720,2026-03-23
+784,Twitter,Flipkart,Worst movie recommendation algorithm. Shows irrelevant content. #disappointed,Negative,3536,719,2026-03-25
+785,Reddit,Samsung,Driver couldn't find my location despite sharing live location.,Negative,4465,216,2026-03-27
+786,Google Reviews,Samsung,Got a notification about a flash sale starting tomorrow.,Neutral,2951,860,2026-03-16
+787,Twitter,Netflix,Food was absolutely stale. Had food poisoning after eating this.,Negative,128,147,2026-03-30
+788,Instagram,Samsung,The app asked me to rate my recent experience.,Neutral,3735,915,2026-03-30
+789,Google Reviews,Samsung,Swiggy app is showing estimated 35 minutes delivery time. #happy,Neutral,4522,839,2026-03-20
+790,Reddit,BigBasket,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,60,591,2026-03-21
+791,Google Reviews,BigBasket,The phone battery drains within 3 hours. Total waste of money. #feedback,Negative,3006,34,2026-03-02
+792,Google Reviews,Uber Eats,Customer support put me on hold for a few minutes.,Neutral,655,145,2026-03-31
+793,Google Reviews,Netflix,The app is asking for a software update. #feedback,Neutral,4287,911,2026-03-24
+794,Twitter,Myntra,Worst delivery experience ever. Package arrived torn and dirty.,Negative,4748,319,2026-03-24
+795,Reddit,Myntra,Video quality drops every 5 minutes. Unwatchable experience. #disappointed,Negative,3843,587,2026-03-30
+796,Facebook,Amazon,Browsing through Flipkart for some deals. #feedback,Neutral,289,711,2026-03-26
+797,Reddit,BigBasket,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1385,586,2026-03-03
+798,Reddit,Netflix,Three-day delivery turned into three weeks. No updates at all. #disappointed,Negative,1038,517,2026-03-06
+799,Google Reviews,Swiggy,Received wrong item and now customer care is not picking up.,Negative,2254,878,2026-03-11
+800,Instagram,Uber Eats,Love the new features in the latest app update. So intuitive.,Positive,3029,827,2026-03-07
+801,Google Reviews,Zomato,The phone battery drains within 3 hours. Total waste of money.,Negative,2808,86,2026-03-08
+802,Reddit,Flipkart,Really happy with my purchase. Exactly as described online.,Positive,3605,743,2026-03-27
+803,Facebook,Netflix,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,430,171,2026-03-20
+804,Google Reviews,Flipkart,Got a notification about a flash sale starting tomorrow. #feedback,Neutral,3111,699,2026-03-30
+805,Google Reviews,Samsung,Got a notification about a flash sale starting tomorrow.,Neutral,97,295,2026-03-20
+806,Google Reviews,Apple,Driver couldn't find my location despite sharing live location.,Negative,3537,625,2026-03-29
+807,Facebook,Netflix,Product is fake. The quality is terrible compared to what was shown. #feedback,Negative,2091,670,2026-03-25
+808,Google Reviews,Flipkart,The restaurant menu had a lot of options to choose from.,Neutral,4259,345,2026-03-28
+809,Twitter,Zomato,Food was delicious and portions were generous. Worth every rupee.,Positive,556,12,2026-03-16
+810,Reddit,Apple,The app is asking for a software update.,Neutral,1797,742,2026-03-12
+811,Google Reviews,Netflix,The live streaming feature is buttery smooth. 10/10 experience.,Positive,465,961,2026-03-25
+812,Twitter,Netflix,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,4953,133,2026-03-18
+813,Instagram,Swiggy,Notification says my cashback will be credited in 2 days.,Neutral,2413,478,2026-03-26
+814,Facebook,Swiggy,Received an email about a new product launch. #feedback,Neutral,1326,799,2026-03-04
+815,Facebook,Zomato,Customer support was very helpful and patient. 5 stars!,Positive,2115,978,2026-03-11
+816,Instagram,BigBasket,Just downloaded the latest update on my phone. #disappointed,Neutral,3216,182,2026-03-28
+817,Reddit,Flipkart,Super impressed with the quick refund. Will shop again.,Positive,870,934,2026-03-20
+818,Twitter,Netflix,Paid for premium but still seeing ads. This is unacceptable.,Negative,4680,745,2026-03-13
+819,Instagram,Zomato,Checked my order status. It says out for delivery. #disappointed,Neutral,309,680,2026-03-17
+820,Google Reviews,Zomato,Really happy with my purchase. Exactly as described online. #feedback,Positive,4222,724,2026-03-20
+821,Twitter,Myntra,The app asked me to rate my recent experience.,Neutral,1850,3,2026-03-18
+822,Google Reviews,Apple,Customer support put me on hold for a few minutes.,Neutral,2731,698,2026-03-12
+823,Google Reviews,Apple,Customer support was very helpful and patient. 5 stars! #disappointed,Positive,659,861,2026-03-21
+824,Google Reviews,Zomato,Three-day delivery turned into three weeks. No updates at all.,Negative,3147,676,2026-03-09
+825,Facebook,Uber Eats,This app is the biggest scam. Taking money without delivering service.,Negative,695,906,2026-03-27
+826,Instagram,Zomato,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4857,244,2026-03-20
+827,Google Reviews,Uber Eats,App update is smooth and the UI looks amazing now. #feedback,Positive,134,37,2026-03-14
+828,Twitter,Flipkart,Video quality drops every 5 minutes. Unwatchable experience. #disappointed,Negative,4285,469,2026-03-29
+829,Google Reviews,Flipkart,Checked the price comparison across multiple platforms.,Neutral,590,37,2026-03-29
+830,Google Reviews,Zomato,The product page says it will be delivered by Friday. #disappointed,Neutral,1988,718,2026-03-27
+831,Twitter,Swiggy,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,797,467,2026-03-24
+832,Reddit,BigBasket,App update is smooth and the UI looks amazing now.,Positive,1806,64,2026-03-10
+833,Twitter,BigBasket,Video quality drops every 5 minutes. Unwatchable experience.,Negative,4471,140,2026-03-16
+834,Instagram,Apple,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,517,123,2026-03-11
+835,Facebook,Myntra,Browsing through Flipkart for some deals.,Neutral,1351,449,2026-03-10
+836,Google Reviews,Samsung,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,1292,16,2026-03-19
+837,Twitter,BigBasket,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,2324,426,2026-03-31
+838,Instagram,Swiggy,Got a notification about a flash sale starting tomorrow.,Neutral,4285,461,2026-03-17
+839,Instagram,Uber Eats,Seamless checkout experience. Will recommend to all my friends.,Positive,721,642,2026-03-12
+840,Instagram,Flipkart,Browsing through Flipkart for some deals.,Neutral,962,542,2026-03-05
+841,Instagram,Swiggy,Chatbot is completely useless and never connects to a human agent. #happy,Negative,434,198,2026-03-06
+842,Instagram,Amazon,Really happy with my purchase. Exactly as described online.,Positive,353,55,2026-03-27
+843,Facebook,Apple,Food was absolutely stale. Had food poisoning after eating this. #happy,Negative,3712,44,2026-03-05
+844,Twitter,Uber Eats,Had the best experience at this restaurant. Will definitely visit again!,Positive,4218,118,2026-03-04
+845,Instagram,Apple,Just downloaded the latest update on my phone. #feedback,Neutral,1884,797,2026-03-04
+846,Reddit,Flipkart,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,3076,912,2026-03-09
+847,Reddit,Amazon,Got a notification about a flash sale starting tomorrow.,Neutral,1770,950,2026-03-25
+848,Instagram,Uber Eats,Seamless checkout experience. Will recommend to all my friends.,Positive,1590,647,2026-03-14
+849,Twitter,BigBasket,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,488,287,2026-03-06
+850,Instagram,Apple,The restaurant menu had a lot of options to choose from.,Neutral,1801,907,2026-03-13
+851,Google Reviews,Flipkart,Great sound quality on these earphones. Best buy of the year.,Positive,708,421,2026-03-22
+852,Facebook,Zomato,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,3507,753,2026-03-09
+853,Instagram,BigBasket,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,1220,935,2026-03-24
+854,Reddit,Myntra,Browsing through Flipkart for some deals.,Neutral,275,435,2026-03-22
+855,Reddit,Flipkart,Customer support put me on hold for a few minutes. #disappointed,Neutral,680,571,2026-03-03
+856,Facebook,Swiggy,Received the Amazon package. Will open it later.,Neutral,1958,663,2026-03-04
+857,Reddit,BigBasket,Customer support put me on hold for a few minutes.,Neutral,4781,24,2026-03-20
+858,Facebook,Uber Eats,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,11,881,2026-03-26
+859,Twitter,Swiggy,This app is the biggest scam. Taking money without delivering service.,Negative,3488,770,2026-03-13
+860,Twitter,BigBasket,Received a confirmation SMS for my booking.,Neutral,2750,753,2026-03-02
+861,Reddit,Apple,Chatbot is completely useless and never connects to a human agent.,Negative,3812,633,2026-03-02
+862,Google Reviews,Netflix,Chatbot is completely useless and never connects to a human agent.,Negative,4593,726,2026-03-09
+863,Twitter,Uber Eats,Subscription auto-renewed without any reminder. Scam behavior.,Negative,4752,892,2026-03-29
+864,Facebook,Myntra,Flipkart customer support is completely useless. Never buying again. #feedback,Negative,3464,283,2026-03-01
+865,Reddit,Myntra,Packaging was terrible. Product was broken on arrival. #feedback,Negative,4314,849,2026-03-05
+866,Google Reviews,Apple,Checked the price comparison across multiple platforms. #feedback,Neutral,537,192,2026-03-19
+867,Facebook,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,895,168,2026-03-11
+868,Instagram,Myntra,The subscription plan is affordable and the content is top-notch.,Positive,185,300,2026-03-18
+869,Facebook,Samsung,Received a confirmation SMS for my booking. #happy,Neutral,3636,755,2026-03-26
+870,Twitter,Flipkart,Three-day delivery turned into three weeks. No updates at all.,Negative,4256,660,2026-03-15
+871,Facebook,Uber Eats,The help center page loaded with a list of FAQs.,Neutral,4860,681,2026-03-30
+872,Facebook,BigBasket,The delivery partner called to confirm the address.,Neutral,1080,919,2026-03-11
+873,Facebook,Swiggy,Paid for premium but still seeing ads. This is unacceptable. #happy,Negative,387,151,2026-03-14
+874,Instagram,Myntra,Received an email about a new product launch.,Neutral,2336,186,2026-03-08
+875,Twitter,Zomato,Really happy with my purchase. Exactly as described online.,Positive,2593,588,2026-03-07
+876,Instagram,Myntra,Paid for premium but still seeing ads. This is unacceptable.,Negative,284,681,2026-03-15
+877,Google Reviews,Amazon,The subscription plan is affordable and the content is top-notch. #feedback,Positive,4371,308,2026-03-04
+878,Reddit,Apple,Just renewed my Netflix subscription for another month.,Neutral,1278,4,2026-03-30
+879,Facebook,Uber Eats,Saw an advertisement for a new show on Netflix.,Neutral,2374,992,2026-03-25
+880,Twitter,Uber Eats,The subscription plan is affordable and the content is top-notch.,Positive,328,142,2026-03-28
+881,Reddit,BigBasket,Love the new features in the latest app update. So intuitive!,Positive,1805,456,2026-03-14
+882,Instagram,BigBasket,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,4312,227,2026-03-12
+883,Reddit,Netflix,Amazon Prime delivery in just 1 day. Great experience as always.,Positive,4192,403,2026-03-10
+884,Facebook,Samsung,Driver couldn't find my location despite sharing live location.,Negative,1211,733,2026-03-17
+885,Facebook,Apple,This app is the biggest scam. Taking money without delivering service.,Negative,2878,315,2026-03-21
+886,Reddit,Samsung,Downloaded the receipt for my recent purchase.,Neutral,3624,295,2026-03-08
+887,Google Reviews,BigBasket,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,705,147,2026-03-09
+888,Google Reviews,Samsung,Got a notification about a flash sale starting tomorrow.,Neutral,724,6,2026-03-18
+889,Google Reviews,Uber Eats,Product is fake. The quality is terrible compared to what was shown.,Negative,4652,773,2026-03-06
+890,Google Reviews,Uber Eats,Food was delicious and portions were generous. Worth every rupee.,Positive,345,842,2026-03-13
+891,Google Reviews,Uber Eats,The help center page loaded with a list of FAQs. #feedback,Neutral,1839,27,2026-03-01
+892,Reddit,Netflix,Paid for premium but still seeing ads. This is unacceptable.,Negative,2356,427,2026-03-07
+893,Facebook,Uber Eats,Worst delivery experience ever. Package arrived torn and dirty.,Negative,546,613,2026-03-30
+894,Reddit,Swiggy,The help center page loaded with a list of FAQs.,Neutral,3899,997,2026-03-31
+895,Google Reviews,Zomato,Delivery boy was very polite and on time. Appreciate it.,Positive,2126,166,2026-03-24
+896,Instagram,Apple,The subscription plan is affordable and the content is top-notch. #feedback,Positive,1337,54,2026-03-12
+897,Facebook,Swiggy,Browsing through Flipkart for some deals.,Neutral,4338,654,2026-03-05
+898,Google Reviews,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,4454,330,2026-03-16
+899,Facebook,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,4377,593,2026-03-16
+900,Google Reviews,Swiggy,The subscription plan is affordable and the content is top-notch.,Positive,3055,797,2026-03-20
+901,Instagram,Amazon,Video quality drops every 5 minutes. Unwatchable experience.,Negative,4123,226,2026-03-11
+902,Reddit,Netflix,Downloaded the receipt for my recent purchase. #disappointed,Neutral,954,838,2026-03-06
+903,Facebook,Amazon,Customer support put me on hold for a few minutes. #feedback,Neutral,3620,911,2026-03-25
+904,Facebook,Zomato,Video quality drops every 5 minutes. Unwatchable experience.,Negative,971,227,2026-03-08
+905,Instagram,Flipkart,The subscription plan is affordable and the content is top-notch. #happy,Positive,1066,80,2026-03-18
+906,Reddit,Samsung,Love the new features in the latest app update. So intuitive!,Positive,348,201,2026-03-04
+907,Twitter,Swiggy,Reading product reviews before making a decision. #disappointed,Neutral,354,67,2026-03-13
+908,Google Reviews,Flipkart,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,4813,922,2026-03-09
+909,Instagram,Swiggy,The refund was not credited even after 15 days. Chasing support.,Negative,4749,356,2026-03-14
+910,Google Reviews,Netflix,Saw an advertisement for a new show on Netflix.,Neutral,811,839,2026-03-26
+911,Instagram,Swiggy,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,1407,923,2026-03-21
+912,Reddit,Apple,Packaging was eco-friendly and the product was intact. Great job.,Positive,4828,189,2026-03-20
+913,Reddit,Samsung,Super impressed with the quick refund. Will shop again. #happy,Positive,1755,526,2026-03-10
+914,Reddit,Netflix,Love the new features in the latest app update. So intuitive!,Positive,4257,139,2026-03-21
+915,Twitter,Netflix,Chatbot is completely useless and never connects to a human agent.,Negative,2687,505,2026-03-05
+916,Facebook,Uber Eats,Food was absolutely stale. Had food poisoning after eating this.,Negative,1850,567,2026-03-17
+917,Reddit,Apple,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,1468,13,2026-03-28
+918,Google Reviews,Netflix,Super impressed with the quick refund. Will shop again.,Positive,976,146,2026-03-17
+919,Facebook,Flipkart,Super impressed with the quick refund. Will shop again.,Positive,2774,205,2026-03-26
+920,Reddit,Uber Eats,Just renewed my Netflix subscription for another month.,Neutral,2281,783,2026-03-31
+921,Reddit,Apple,The help center page loaded with a list of FAQs.,Neutral,3897,682,2026-03-25
+922,Reddit,Netflix,The product page says it will be delivered by Friday.,Neutral,1000,256,2026-03-20
+923,Twitter,Zomato,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,558,510,2026-03-26
+924,Facebook,Amazon,Seamless checkout experience. Will recommend to all my friends.,Positive,2480,636,2026-03-24
+925,Instagram,Swiggy,Product quality exceeded my expectations. Highly recommended!,Positive,4078,502,2026-03-22
+926,Google Reviews,Zomato,Received a confirmation SMS for my booking.,Neutral,258,440,2026-03-05
+927,Reddit,Uber Eats,Checked my order status. It says out for delivery. #feedback,Neutral,294,33,2026-03-07
+928,Reddit,Amazon,Prices are misleading. Hidden charges at checkout are ridiculous. #happy,Negative,2559,732,2026-03-17
+929,Google Reviews,Myntra,Love the new features in the latest app update. So intuitive.,Positive,4687,481,2026-03-20
+930,Facebook,Uber Eats,Great sound quality on these earphones. Best buy of the year! #disappointed,Positive,4841,994,2026-03-18
+931,Twitter,Zomato,Worst movie recommendation algorithm. Shows irrelevant content. #feedback,Negative,4837,46,2026-03-08
+932,Google Reviews,Zomato,Chatbot is completely useless and never connects to a human agent.,Negative,2795,389,2026-03-05
+933,Facebook,Zomato,The refund was not credited even after 15 days. Chasing support. #feedback,Negative,2000,253,2026-03-10
+934,Twitter,Swiggy,The new update broke all my preferences. Terrible UX design.,Negative,937,345,2026-03-06
+935,Reddit,Samsung,Checked the price comparison across multiple platforms.,Neutral,4653,527,2026-03-17
+936,Twitter,Apple,Amazon Prime delivery in just 1 day. Great experience as always.,Positive,3094,584,2026-03-17
+937,Twitter,Flipkart,Scrolling through my order history from last month. #disappointed,Neutral,2752,508,2026-03-23
+938,Facebook,Apple,Video quality drops every 5 minutes. Unwatchable experience.,Negative,3571,206,2026-03-20
+939,Facebook,Zomato,Product quality exceeded my expectations. Highly recommended! #happy,Positive,2435,587,2026-03-18
+940,Google Reviews,Netflix,Flipkart customer support is completely useless. Never buying again.,Negative,4848,344,2026-03-11
+941,Instagram,Apple,Notification says my cashback will be credited in 2 days.,Neutral,628,667,2026-03-12
+942,Google Reviews,Apple,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1639,424,2026-03-17
+943,Google Reviews,Amazon,Reading product reviews before making a decision.,Neutral,152,642,2026-03-30
+944,Reddit,Swiggy,Food was delicious and portions were generous. Worth every rupee.,Positive,4364,828,2026-03-26
+945,Instagram,Apple,The app asked me to rate my recent experience.,Neutral,3788,151,2026-03-09
+946,Facebook,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1667,866,2026-03-17
+947,Google Reviews,Flipkart,Food was absolutely stale. Had food poisoning after eating this. #happy,Negative,3324,244,2026-03-04
+948,Facebook,Uber Eats,The live streaming feature is buttery smooth. 10/10 experience.,Positive,3976,573,2026-03-17
+949,Facebook,Amazon,Swiggy support resolved my issue within minutes. Excellent service!,Positive,238,264,2026-03-13
+950,Twitter,Uber Eats,The delivery partner called to confirm the address.,Neutral,163,56,2026-03-04
+951,Facebook,Netflix,Prices are misleading. Hidden charges at checkout are ridiculous. #disappointed,Negative,3251,965,2026-03-31
+952,Google Reviews,Myntra,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,988,534,2026-03-28
+953,Twitter,Flipkart,The help center page loaded with a list of FAQs. #feedback,Neutral,4913,125,2026-03-14
+954,Instagram,Samsung,The help center page loaded with a list of FAQs.,Neutral,1785,147,2026-03-04
+955,Reddit,Swiggy,Amazon delivered a damaged product. Refund process is a nightmare. #feedback,Negative,4829,57,2026-03-20
+956,Google Reviews,Samsung,Packaging was terrible. Product was broken on arrival. #disappointed,Negative,3890,699,2026-03-09
+957,Facebook,Swiggy,The subscription plan is affordable and the content is top-notch. #feedback,Positive,172,660,2026-03-24
+958,Google Reviews,Samsung,Had the best experience at this restaurant. Will definitely visit again! #happy,Positive,2533,654,2026-03-30
+959,Reddit,Zomato,Delivery boy was very polite and on time. Appreciate it. #happy,Positive,3219,949,2026-03-12
+960,Instagram,Amazon,The movie recommendation on Netflix was spot on. Loved it! #happy,Positive,3595,646,2026-03-16
+961,Twitter,Uber Eats,Received the Amazon package. Will open it later. #disappointed,Neutral,3859,754,2026-03-18
+962,Instagram,Swiggy,Subscription auto-renewed without any reminder. Scam behavior.,Negative,4147,67,2026-03-15
+963,Twitter,Zomato,The delivery partner called to confirm the address. #feedback,Neutral,1505,645,2026-03-21
+964,Instagram,Swiggy,Discount coupon worked perfectly. Got 40% off. Amazing deal! #disappointed,Positive,2570,589,2026-03-04
+965,Instagram,BigBasket,Great sound quality on these earphones. Best buy of the year.,Positive,3361,811,2026-03-15
+966,Instagram,BigBasket,Customer support put me on hold for a few minutes. #happy,Neutral,2683,818,2026-03-12
+967,Instagram,Samsung,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,3091,967,2026-03-24
+968,Google Reviews,Flipkart,Amazon Prime delivery in just 1 day. Great experience as always.,Positive,728,997,2026-03-19
+969,Reddit,BigBasket,Paid for premium but still seeing ads. This is unacceptable.,Negative,3513,614,2026-03-11
+970,Google Reviews,Netflix,The movie recommendation on Netflix was spot on. Loved it!,Positive,115,735,2026-03-22
+971,Instagram,Flipkart,Received an email about a new product launch.,Neutral,1560,968,2026-03-12
+972,Reddit,Flipkart,Logged into the app to check my order history.,Neutral,4915,220,2026-03-13
+973,Reddit,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,235,297,2026-03-12
+974,Google Reviews,Uber Eats,Checked my order status. It says out for delivery. #happy,Neutral,702,10,2026-03-19
+975,Instagram,Samsung,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,3467,753,2026-03-24
+976,Twitter,Zomato,Product quality exceeded my expectations. Highly recommended.,Positive,2726,953,2026-03-10
+977,Facebook,Myntra,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,3120,309,2026-03-18
+978,Twitter,BigBasket,Packaging was terrible. Product was broken on arrival.,Negative,1469,266,2026-03-07
+979,Instagram,Netflix,Logged into the app to check my order history. #feedback,Neutral,2599,727,2026-03-22
+980,Facebook,Zomato,The subscription plan is affordable and the content is top-notch.,Positive,1047,511,2026-03-13
+981,Facebook,BigBasket,Chatbot is completely useless and never connects to a human agent.,Negative,2160,529,2026-03-15
+982,Reddit,Amazon,The customer care team was empathetic and resolved my issue fast.,Positive,4552,873,2026-03-28
+983,Instagram,Zomato,Just downloaded the latest update on my phone.,Neutral,1883,187,2026-03-02
+984,Reddit,Samsung,Paid for premium but still seeing ads. This is unacceptable.,Negative,950,916,2026-03-19
+985,Google Reviews,Uber Eats,Just downloaded the latest update on my phone.,Neutral,3749,504,2026-03-06
+986,Twitter,Flipkart,The subscription plan is affordable and the content is top-notch. #disappointed,Positive,2327,184,2026-03-08
+987,Google Reviews,Flipkart,Reading product reviews before making a decision.,Neutral,4780,994,2026-03-02
+988,Twitter,Flipkart,Scrolling through my order history from last month. #happy,Neutral,4080,693,2026-03-04
+989,Twitter,Samsung,Flipkart sale saved me so much money. Totally worth it.,Positive,3060,604,2026-03-06
+990,Twitter,Uber Eats,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,3930,464,2026-03-27
+991,Google Reviews,Uber Eats,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,2661,970,2026-03-31
+992,Twitter,Swiggy,Notification says my cashback will be credited in 2 days.,Neutral,2647,817,2026-03-03
+993,Reddit,Swiggy,Product quality exceeded my expectations. Highly recommended!,Positive,1458,245,2026-03-16
+994,Reddit,Samsung,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,2334,662,2026-03-27
+995,Reddit,Swiggy,Delivery boy was very polite and on time. Appreciate it. #feedback,Positive,4943,134,2026-03-15
+996,Instagram,Uber Eats,Packaging was eco-friendly and the product was intact. Great job.,Positive,3649,906,2026-03-17
+997,Reddit,Apple,Product is fake. The quality is terrible compared to what was shown.,Negative,1526,444,2026-03-27
+998,Facebook,Uber Eats,The movie recommendation on Netflix was spot on. Loved it.,Positive,1836,663,2026-03-28
+999,Google Reviews,Netflix,Really happy with my purchase. Exactly as described online.,Positive,2381,479,2026-03-16
+1000,Instagram,Swiggy,Customer support put me on hold for a few minutes.,Neutral,2036,535,2026-03-17
+1001,Twitter,Zomato,Notification says my cashback will be credited in 2 days.,Neutral,4205,110,2026-03-22
+1002,Google Reviews,Swiggy,Received the Amazon package. Will open it later. #disappointed,Neutral,2911,260,2026-03-24
+1003,Reddit,Amazon,Saw an advertisement for a new show on Netflix.,Neutral,1492,863,2026-03-16
+1004,Facebook,Apple,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,4810,741,2026-03-21
+1005,Instagram,Flipkart,Checked my order status. It says out for delivery. #feedback,Neutral,1516,80,2026-03-30
+1006,Google Reviews,Zomato,Paid for premium but still seeing ads. This is unacceptable. #disappointed,Negative,47,404,2026-03-04
+1007,Reddit,BigBasket,The customer care team was empathetic and resolved my issue fast.,Positive,3987,310,2026-03-26
+1008,Twitter,Amazon,Chatbot is completely useless and never connects to a human agent.,Negative,1106,14,2026-03-09
+1009,Instagram,Uber Eats,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,1189,665,2026-03-10
+1010,Facebook,Uber Eats,Checked the price comparison across multiple platforms.,Neutral,1213,485,2026-03-16
+1011,Reddit,Uber Eats,Love the new features in the latest app update. So intuitive!,Positive,3862,20,2026-03-20
+1012,Google Reviews,Samsung,Worst delivery experience ever. Package arrived torn and dirty. #happy,Negative,417,341,2026-03-01
+1013,Google Reviews,BigBasket,The app asked me to rate my recent experience.,Neutral,4540,297,2026-03-02
+1014,Google Reviews,BigBasket,Just renewed my Netflix subscription for another month.,Neutral,3996,237,2026-03-29
+1015,Google Reviews,Apple,The app is asking for a software update. #disappointed,Neutral,4532,65,2026-03-13
+1016,Reddit,BigBasket,Browsing through Flipkart for some deals.,Neutral,2840,459,2026-03-30
+1017,Instagram,Uber Eats,Amazon Prime delivery in just 1 day! Great experience as always. #happy,Positive,2816,448,2026-03-10
+1018,Reddit,Amazon,Flipkart customer support is completely useless. Never buying again.,Negative,2403,740,2026-03-30
+1019,Instagram,BigBasket,Browsing through Flipkart for some deals. #feedback,Neutral,1697,289,2026-03-31
+1020,Instagram,Flipkart,The movie recommendation on Netflix was spot on. Loved it!,Positive,1280,620,2026-03-19
+1021,Instagram,Flipkart,Browsing through Flipkart for some deals.,Neutral,4561,48,2026-03-02
+1022,Instagram,Amazon,Paid for premium but still seeing ads. This is unacceptable.,Negative,4124,32,2026-03-04
+1023,Instagram,Netflix,The app asked me to rate my recent experience.,Neutral,4603,229,2026-03-19
+1024,Google Reviews,Swiggy,Video quality drops every 5 minutes. Unwatchable experience.,Negative,1238,873,2026-03-31
+1025,Twitter,Uber Eats,Reading product reviews before making a decision.,Neutral,3744,985,2026-03-04
+1026,Twitter,Amazon,Super impressed with the quick refund. Will shop again.,Positive,967,891,2026-03-09
+1027,Reddit,Myntra,Great sound quality on these earphones. Best buy of the year.,Positive,4082,750,2026-03-04
+1028,Twitter,Flipkart,Chatbot is completely useless and never connects to a human agent.,Negative,3597,992,2026-03-18
+1029,Facebook,Swiggy,Zomato delivery was super fast today! Loved the packaging 🎉 #happy,Positive,4137,175,2026-03-04
+1030,Instagram,Amazon,Packaging was terrible. Product was broken on arrival.,Negative,4338,431,2026-03-09
+1031,Reddit,Myntra,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2963,966,2026-03-02
+1032,Google Reviews,Netflix,The subscription plan is affordable and the content is top-notch.,Positive,694,346,2026-03-15
+1033,Reddit,Zomato,The customer care team was empathetic and resolved my issue fast.,Positive,1236,924,2026-03-24
+1034,Reddit,Myntra,Order tracking shows the package is in transit. #feedback,Neutral,2493,738,2026-03-30
+1035,Google Reviews,BigBasket,The refund was not credited even after 15 days. Chasing support. #disappointed,Negative,1203,717,2026-03-17
+1036,Facebook,Samsung,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,1616,902,2026-03-11
+1037,Instagram,Myntra,Swiggy support resolved my issue within minutes. Excellent service! #feedback,Positive,4430,290,2026-03-09
+1038,Facebook,Amazon,Reading product reviews before making a decision.,Neutral,191,28,2026-03-23
+1039,Reddit,Myntra,Paid for premium but still seeing ads. This is unacceptable. #happy,Negative,904,749,2026-03-03
+1040,Google Reviews,Apple,Packaging was terrible. Product was broken on arrival.,Negative,1014,48,2026-03-27
+1041,Twitter,Uber Eats,Checked my order status. It says out for delivery.,Neutral,2776,241,2026-03-30
+1042,Facebook,Swiggy,Notification says my cashback will be credited in 2 days. #happy,Neutral,4692,688,2026-03-08
+1043,Facebook,Myntra,Size chart is completely wrong. Returned the item immediately.,Negative,4770,197,2026-03-15
+1044,Reddit,Samsung,Packaging was eco-friendly and the product was intact. Great job.,Positive,671,94,2026-03-02
+1045,Reddit,Netflix,Best pizza I've ever had. Ordered again the same evening.,Positive,3025,693,2026-03-22
+1046,Google Reviews,Uber Eats,Downloaded the receipt for my recent purchase.,Neutral,3468,450,2026-03-30
+1047,Google Reviews,Amazon,Browsing through Flipkart for some deals.,Neutral,3971,728,2026-03-19
+1048,Instagram,Uber Eats,Reading product reviews before making a decision.,Neutral,3877,33,2026-03-29
+1049,Google Reviews,Samsung,Downloaded the receipt for my recent purchase.,Neutral,903,123,2026-03-15
+1050,Instagram,Netflix,Three-day delivery turned into three weeks. No updates at all.,Negative,3043,312,2026-03-14
+1051,Instagram,Amazon,Three-day delivery turned into three weeks. No updates at all.,Negative,4830,431,2026-03-02
+1052,Reddit,Zomato,Food was absolutely stale. Had food poisoning after eating this.,Negative,1002,560,2026-03-14
+1053,Google Reviews,Swiggy,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,4634,463,2026-03-16
+1054,Google Reviews,Amazon,Size chart is completely wrong. Returned the item immediately.,Negative,1134,516,2026-03-27
+1055,Facebook,Netflix,Checked my order status. It says out for delivery.,Neutral,3355,396,2026-03-10
+1056,Reddit,Swiggy,Video quality drops every 5 minutes. Unwatchable experience.,Negative,725,886,2026-03-08
+1057,Twitter,Myntra,Flipkart sale saved me so much money. Totally worth it.,Positive,697,197,2026-03-25
+1058,Google Reviews,Flipkart,Scrolling through my order history from last month.,Neutral,3898,514,2026-03-01
+1059,Facebook,Flipkart,Checked the price comparison across multiple platforms.,Neutral,2009,849,2026-03-31
+1060,Google Reviews,BigBasket,The help center page loaded with a list of FAQs.,Neutral,2624,411,2026-03-24
+1061,Reddit,Amazon,The product page says it will be delivered by Friday. #disappointed,Neutral,3399,24,2026-03-22
+1062,Twitter,Netflix,Size chart is completely wrong. Returned the item immediately.,Negative,4438,172,2026-03-11
+1063,Instagram,Swiggy,Food was delicious and portions were generous. Worth every rupee.,Positive,3336,694,2026-03-06
+1064,Twitter,Swiggy,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,3194,101,2026-03-14
+1065,Reddit,Netflix,Received the Amazon package. Will open it later. #feedback,Neutral,424,207,2026-03-11
+1066,Google Reviews,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,942,275,2026-03-02
+1067,Reddit,Zomato,The restaurant menu had a lot of options to choose from.,Neutral,3338,648,2026-03-09
+1068,Google Reviews,Amazon,Product is fake. The quality is terrible compared to what was shown.,Negative,2495,581,2026-03-17
+1069,Facebook,Myntra,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,1377,800,2026-03-10
+1070,Twitter,Uber Eats,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2369,668,2026-03-06
+1071,Google Reviews,Swiggy,Customer support was very helpful and patient. 5 stars!,Positive,3114,359,2026-03-27
+1072,Instagram,Myntra,The help center page loaded with a list of FAQs.,Neutral,4612,71,2026-03-11
+1073,Google Reviews,Swiggy,Placed my Zomato order. Waiting for delivery.,Neutral,3538,215,2026-03-25
+1074,Facebook,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,2236,251,2026-03-27
+1075,Google Reviews,Apple,Video quality drops every 5 minutes. Unwatchable experience. #happy,Negative,130,935,2026-03-29
+1076,Twitter,Amazon,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,3384,569,2026-03-31
+1077,Twitter,Netflix,The product page says it will be delivered by Friday.,Neutral,4412,31,2026-03-27
+1078,Google Reviews,Apple,Delivery boy was very polite and on time. Appreciate it. #feedback,Positive,3168,181,2026-03-29
+1079,Instagram,Uber Eats,Delivery boy was very polite and on time. Appreciate it.,Positive,76,226,2026-03-29
+1080,Twitter,BigBasket,Received wrong item and now customer care is not picking up.,Negative,2483,827,2026-03-29
+1081,Twitter,Swiggy,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,4037,926,2026-03-31
+1082,Reddit,Netflix,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,2272,582,2026-03-22
+1083,Google Reviews,BigBasket,The customer care team was empathetic and resolved my issue fast.,Positive,4629,179,2026-03-05
+1084,Facebook,BigBasket,Best pizza I've ever had. Ordered again the same evening.,Positive,1867,902,2026-03-23
+1085,Twitter,Myntra,Received wrong item and now customer care is not picking up.,Negative,2071,697,2026-03-22
+1086,Twitter,Apple,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,3543,864,2026-03-17
+1087,Facebook,Myntra,Delivery boy was very polite and on time. Appreciate it.,Positive,356,905,2026-03-29
+1088,Google Reviews,Uber Eats,Had the best experience at this restaurant. Will definitely visit again! #feedback,Positive,2590,5,2026-03-17
+1089,Twitter,Flipkart,Subscription auto-renewed without any reminder. Scam behavior.,Negative,3471,980,2026-03-04
+1090,Facebook,Netflix,Zomato order was 2 hours late and food arrived cold. Disgusting! #happy,Negative,792,28,2026-03-20
+1091,Instagram,Netflix,Flipkart sale saved me so much money. Totally worth it! #feedback,Positive,3879,244,2026-03-16
+1092,Instagram,Netflix,Had the best experience at this restaurant. Will definitely visit again.,Positive,4914,634,2026-03-21
+1093,Twitter,Netflix,Packaging was eco-friendly and the product was intact. Great job.,Positive,497,938,2026-03-02
+1094,Twitter,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,448,308,2026-03-25
+1095,Twitter,Myntra,The app asked me to rate my recent experience.,Neutral,427,301,2026-03-17
+1096,Google Reviews,BigBasket,Packaging was eco-friendly and the product was intact. Great job!,Positive,86,464,2026-03-17
+1097,Twitter,Uber Eats,Swiggy app is showing estimated 35 minutes delivery time. #disappointed,Neutral,4237,336,2026-03-24
+1098,Google Reviews,Netflix,Super impressed with the quick refund. Will shop again.,Positive,4856,808,2026-03-10
+1099,Reddit,Uber Eats,Best pizza I've ever had. Ordered again the same evening. #feedback,Positive,3642,190,2026-03-09
+1100,Facebook,BigBasket,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,3570,525,2026-03-28
+1101,Google Reviews,Amazon,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,1207,480,2026-03-13
+1102,Twitter,Myntra,Video quality drops every 5 minutes. Unwatchable experience. #feedback,Negative,4804,673,2026-03-27
+1103,Google Reviews,Zomato,Customer support was very helpful and patient. 5 stars.,Positive,3457,352,2026-03-09
+1104,Instagram,Uber Eats,Zomato order was 2 hours late and food arrived cold. Disgusting! #disappointed,Negative,3828,614,2026-03-30
+1105,Facebook,Samsung,The help center page loaded with a list of FAQs.,Neutral,2692,166,2026-03-05
+1106,Twitter,Flipkart,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,1886,477,2026-03-24
+1107,Facebook,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,1681,409,2026-03-08
+1108,Twitter,Apple,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,245,568,2026-03-04
+1109,Google Reviews,Apple,Three-day delivery turned into three weeks. No updates at all.,Negative,359,998,2026-03-01
+1110,Instagram,Swiggy,Zomato order was 2 hours late and food arrived cold. Disgusting!,Negative,1427,347,2026-03-22
+1111,Instagram,Swiggy,Seamless checkout experience. Will recommend to all my friends.,Positive,828,21,2026-03-27
+1112,Instagram,Swiggy,Size chart is completely wrong. Returned the item immediately. #disappointed,Negative,3737,245,2026-03-16
+1113,Google Reviews,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,535,121,2026-03-06
+1114,Reddit,Apple,The live streaming feature is buttery smooth. 10/10 experience.,Positive,2604,613,2026-03-18
+1115,Google Reviews,Flipkart,Worst delivery experience ever. Package arrived torn and dirty.,Negative,4386,301,2026-03-07
+1116,Facebook,Amazon,Worst delivery experience ever. Package arrived torn and dirty.,Negative,4163,991,2026-03-25
+1117,Google Reviews,Netflix,Netflix keeps buffering even on high-speed internet. Very frustrating. #disappointed,Negative,1371,520,2026-03-18
+1118,Google Reviews,Uber Eats,Reading product reviews before making a decision. #feedback,Neutral,1466,329,2026-03-30
+1119,Reddit,Uber Eats,The app is asking for a software update.,Neutral,2198,595,2026-03-18
+1120,Instagram,Flipkart,The help center page loaded with a list of FAQs.,Neutral,3703,883,2026-03-10
+1121,Reddit,BigBasket,Amazon delivered a damaged product. Refund process is a nightmare. #feedback,Negative,1287,957,2026-03-14
+1122,Twitter,Swiggy,The delivery partner called to confirm the address.,Neutral,3641,531,2026-03-14
+1123,Google Reviews,BigBasket,The help center page loaded with a list of FAQs. #disappointed,Neutral,2755,436,2026-03-20
+1124,Reddit,Apple,The app asked me to rate my recent experience.,Neutral,2236,391,2026-03-01
+1125,Twitter,Apple,Just downloaded the latest update on my phone. #happy,Neutral,675,301,2026-03-23
+1126,Instagram,Netflix,Received a confirmation SMS for my booking. #disappointed,Neutral,971,73,2026-03-14
+1127,Instagram,Apple,Received a confirmation SMS for my booking. #happy,Neutral,2048,309,2026-03-31
+1128,Google Reviews,Amazon,Received wrong item and now customer care is not picking up.,Negative,4449,934,2026-03-11
+1129,Reddit,Samsung,Prices are misleading. Hidden charges at checkout are ridiculous. #feedback,Negative,4750,775,2026-03-26
+1130,Instagram,Flipkart,Got a notification about a flash sale starting tomorrow. #happy,Neutral,1719,485,2026-03-10
+1131,Reddit,Apple,The delivery partner called to confirm the address.,Neutral,703,320,2026-03-10
+1132,Reddit,Myntra,Browsing through Flipkart for some deals. #happy,Neutral,246,383,2026-03-07
+1133,Twitter,Uber Eats,Best pizza I've ever had. Ordered again the same evening.,Positive,2905,347,2026-03-10
+1134,Google Reviews,Swiggy,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2671,601,2026-03-02
+1135,Facebook,BigBasket,Swiggy support resolved my issue within minutes. Excellent service!,Positive,4939,935,2026-03-25
+1136,Reddit,Netflix,Placed my Zomato order. Waiting for delivery.,Neutral,4378,395,2026-03-10
+1137,Reddit,Swiggy,Super impressed with the quick refund. Will shop again.,Positive,763,175,2026-03-05
+1138,Google Reviews,Uber Eats,The delivery partner called to confirm the address.,Neutral,219,191,2026-03-09
+1139,Instagram,Swiggy,This app is the biggest scam. Taking money without delivering service.,Negative,4295,71,2026-03-19
+1140,Facebook,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,3203,160,2026-03-04
+1141,Twitter,Samsung,Checked the price comparison across multiple platforms.,Neutral,1691,133,2026-03-09
+1142,Google Reviews,BigBasket,The app asked me to rate my recent experience.,Neutral,2542,601,2026-03-10
+1143,Twitter,Amazon,Received an email about a new product launch.,Neutral,3651,65,2026-03-18
+1144,Reddit,Uber Eats,Worst delivery experience ever. Package arrived torn and dirty.,Negative,3790,589,2026-03-03
+1145,Reddit,Apple,The movie recommendation on Netflix was spot on. Loved it.,Positive,2436,400,2026-03-26
+1146,Instagram,BigBasket,Seamless checkout experience. Will recommend to all my friends.,Positive,3539,468,2026-03-18
+1147,Twitter,Flipkart,Food was delicious and portions were generous. Worth every rupee. #disappointed,Positive,1293,280,2026-03-28
+1148,Instagram,Uber Eats,Three-day delivery turned into three weeks. No updates at all.,Negative,3369,780,2026-03-21
+1149,Google Reviews,Apple,Packaging was terrible. Product was broken on arrival.,Negative,3359,461,2026-03-07
+1150,Twitter,Netflix,Netflix keeps buffering even on high-speed internet. Very frustrating. #disappointed,Negative,3783,390,2026-03-16
+1151,Twitter,Zomato,Just renewed my Netflix subscription for another month. #happy,Neutral,2052,117,2026-03-29
+1152,Reddit,Netflix,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,676,561,2026-03-27
+1153,Facebook,Amazon,Just downloaded the latest update on my phone. #happy,Neutral,1397,858,2026-03-03
+1154,Twitter,Myntra,Packaging was eco-friendly and the product was intact. Great job! #happy,Positive,3201,172,2026-03-05
+1155,Reddit,Apple,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,1457,221,2026-03-29
+1156,Twitter,Myntra,Checked the price comparison across multiple platforms. #happy,Neutral,842,399,2026-03-30
+1157,Twitter,Zomato,Just downloaded the latest update on my phone.,Neutral,3091,785,2026-03-09
+1158,Twitter,Zomato,Packaging was terrible. Product was broken on arrival.,Negative,3454,28,2026-03-02
+1159,Twitter,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,1368,45,2026-03-17
+1160,Google Reviews,Flipkart,Super impressed with the quick refund. Will shop again. #feedback,Positive,1696,956,2026-03-22
+1161,Instagram,Netflix,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2921,331,2026-03-06
+1162,Reddit,Flipkart,Just renewed my Netflix subscription for another month.,Neutral,3758,225,2026-03-05
+1163,Twitter,Flipkart,Received wrong item and now customer care is not picking up.,Negative,3367,308,2026-03-25
+1164,Twitter,BigBasket,Super impressed with the quick refund. Will shop again. #happy,Positive,2657,646,2026-03-30
+1165,Facebook,Uber Eats,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,553,343,2026-03-03
+1166,Google Reviews,Flipkart,The help center page loaded with a list of FAQs.,Neutral,4124,601,2026-03-29
+1167,Twitter,Swiggy,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,1936,755,2026-03-18
+1168,Instagram,Apple,Worst delivery experience ever. Package arrived torn and dirty.,Negative,4085,303,2026-03-09
+1169,Twitter,Flipkart,Size chart is completely wrong. Returned the item immediately.,Negative,4899,968,2026-03-21
+1170,Facebook,Zomato,Subscription auto-renewed without any reminder. Scam behavior. #happy,Negative,4266,810,2026-03-18
+1171,Facebook,Apple,Food was absolutely stale. Had food poisoning after eating this.,Negative,1984,210,2026-03-21
+1172,Reddit,Myntra,Worst delivery experience ever. Package arrived torn and dirty.,Negative,2634,187,2026-03-20
+1173,Twitter,Flipkart,Zomato delivery was super fast today! Loved the packaging 🎉 #disappointed,Positive,426,649,2026-03-06
+1174,Google Reviews,Myntra,Best pizza I've ever had. Ordered again the same evening.,Positive,1674,241,2026-03-21
+1175,Instagram,Flipkart,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2006,434,2026-03-08
+1176,Google Reviews,Uber Eats,Worst delivery experience ever. Package arrived torn and dirty. #feedback,Negative,1649,278,2026-03-19
+1177,Instagram,Uber Eats,Chatbot is completely useless and never connects to a human agent.,Negative,3615,432,2026-03-23
+1178,Twitter,Samsung,The app asked me to rate my recent experience. #happy,Neutral,3501,874,2026-03-06
+1179,Instagram,Swiggy,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,3116,474,2026-03-12
+1180,Google Reviews,Uber Eats,Food was absolutely stale. Had food poisoning after eating this.,Negative,589,341,2026-03-08
+1181,Instagram,Zomato,Got a notification about a flash sale starting tomorrow.,Neutral,105,882,2026-03-23
+1182,Reddit,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,3056,393,2026-03-19
+1183,Twitter,Samsung,Product quality exceeded my expectations. Highly recommended!,Positive,4633,166,2026-03-11
+1184,Facebook,Myntra,The app asked me to rate my recent experience.,Neutral,4002,650,2026-03-30
+1185,Instagram,Flipkart,Customer support was very helpful and patient. 5 stars!,Positive,3913,35,2026-03-15
+1186,Google Reviews,Uber Eats,Flipkart sale saved me so much money. Totally worth it! #happy,Positive,1207,260,2026-03-10
+1187,Twitter,Netflix,The help center page loaded with a list of FAQs.,Neutral,3148,407,2026-03-30
+1188,Instagram,Samsung,"Ordered food at midnight, arrived hot and fresh. Zomato rocks! #happy",Positive,2071,708,2026-03-12
+1189,Facebook,Samsung,Checked the price comparison across multiple platforms.,Neutral,728,111,2026-03-28
+1190,Instagram,Samsung,The refund was not credited even after 15 days. Chasing support. #happy,Negative,2523,6,2026-03-08
+1191,Twitter,Samsung,The product page says it will be delivered by Friday.,Neutral,4300,426,2026-03-27
+1192,Facebook,Amazon,The app asked me to rate my recent experience.,Neutral,1100,202,2026-03-19
+1193,Google Reviews,Flipkart,Saw an advertisement for a new show on Netflix. #disappointed,Neutral,1520,205,2026-03-03
+1194,Reddit,Uber Eats,Food was delicious and portions were generous. Worth every rupee. #happy,Positive,894,889,2026-03-27
+1195,Reddit,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,2267,65,2026-03-14
+1196,Reddit,Netflix,The help center page loaded with a list of FAQs. #happy,Neutral,77,62,2026-03-13
+1197,Instagram,Myntra,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,59,384,2026-03-25
+1198,Facebook,BigBasket,Product is fake. The quality is terrible compared to what was shown.,Negative,3518,344,2026-03-15
+1199,Facebook,Samsung,Video quality drops every 5 minutes. Unwatchable experience.,Negative,3100,625,2026-03-02
+1200,Reddit,Samsung,Subscription auto-renewed without any reminder. Scam behavior.,Negative,1137,26,2026-03-24
+1201,Instagram,Apple,The app is asking for a software update.,Neutral,3702,633,2026-03-28
+1202,Instagram,Zomato,Got a notification about a flash sale starting tomorrow.,Neutral,2639,17,2026-03-27
+1203,Reddit,Flipkart,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,4970,496,2026-03-18
+1204,Reddit,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks! #feedback",Positive,3152,300,2026-03-24
+1205,Reddit,Netflix,The subscription plan is affordable and the content is top-notch.,Positive,2468,852,2026-03-28
+1206,Twitter,Uber Eats,The restaurant menu had a lot of options to choose from. #happy,Neutral,4429,246,2026-03-09
+1207,Reddit,Zomato,The customer care team was empathetic and resolved my issue fast.,Positive,1312,951,2026-03-15
+1208,Facebook,Uber Eats,Received wrong item and now customer care is not picking up.,Negative,1008,681,2026-03-07
+1209,Facebook,Flipkart,The product page says it will be delivered by Friday.,Neutral,4718,784,2026-03-24
+1210,Reddit,Myntra,Video quality drops every 5 minutes. Unwatchable experience.,Negative,3579,827,2026-03-09
+1211,Twitter,Netflix,Paid for premium but still seeing ads. This is unacceptable. #disappointed,Negative,730,348,2026-03-30
+1212,Facebook,Amazon,The live streaming feature is buttery smooth. 10/10 experience.,Positive,2567,976,2026-03-18
+1213,Google Reviews,Myntra,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,1555,867,2026-03-17
+1214,Instagram,Myntra,Driver couldn't find my location despite sharing live location.,Negative,4928,604,2026-03-09
+1215,Reddit,Apple,Placed my Zomato order. Waiting for delivery.,Neutral,1185,835,2026-03-13
+1216,Reddit,Amazon,Flipkart customer support is completely useless. Never buying again.,Negative,4927,290,2026-03-08
+1217,Google Reviews,Netflix,Swiggy support resolved my issue within minutes. Excellent service! #feedback,Positive,2240,868,2026-03-30
+1218,Facebook,Samsung,Customer support put me on hold for a few minutes. #happy,Neutral,481,829,2026-03-14
+1219,Twitter,Amazon,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,3993,744,2026-03-17
+1220,Reddit,Apple,Great sound quality on these earphones. Best buy of the year.,Positive,3460,694,2026-03-20
+1221,Google Reviews,Swiggy,Placed my Zomato order. Waiting for delivery.,Neutral,2313,713,2026-03-10
+1222,Instagram,Apple,The delivery partner called to confirm the address.,Neutral,4754,886,2026-03-03
+1223,Instagram,BigBasket,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1126,452,2026-03-30
+1224,Instagram,Flipkart,Three-day delivery turned into three weeks. No updates at all.,Negative,74,370,2026-03-31
+1225,Instagram,Samsung,Scrolling through my order history from last month.,Neutral,3498,695,2026-03-06
+1226,Instagram,Zomato,Packaging was eco-friendly and the product was intact. Great job! #feedback,Positive,961,527,2026-03-27
+1227,Reddit,Flipkart,The app asked me to rate my recent experience.,Neutral,278,121,2026-03-10
+1228,Google Reviews,Amazon,The product page says it will be delivered by Friday.,Neutral,3075,794,2026-03-31
+1229,Reddit,Swiggy,The movie recommendation on Netflix was spot on. Loved it.,Positive,3646,376,2026-03-01
+1230,Reddit,Myntra,Love the new features in the latest app update. So intuitive!,Positive,1842,23,2026-03-25
+1231,Twitter,BigBasket,Scrolling through my order history from last month.,Neutral,1483,393,2026-03-20
+1232,Instagram,Netflix,The app asked me to rate my recent experience.,Neutral,2664,65,2026-03-31
+1233,Twitter,Samsung,Checked the price comparison across multiple platforms. #happy,Neutral,4555,837,2026-03-23
+1234,Google Reviews,BigBasket,The app is asking for a software update.,Neutral,4415,730,2026-03-27
+1235,Google Reviews,Amazon,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,43,568,2026-03-21
+1236,Instagram,BigBasket,Driver couldn't find my location despite sharing live location.,Negative,1689,668,2026-03-06
+1237,Twitter,Netflix,Downloaded the receipt for my recent purchase.,Neutral,4146,305,2026-03-15
+1238,Twitter,Flipkart,The customer care team was empathetic and resolved my issue fast.,Positive,2462,47,2026-03-23
+1239,Google Reviews,Uber Eats,Three-day delivery turned into three weeks. No updates at all.,Negative,2563,535,2026-03-15
+1240,Twitter,Zomato,Checked the price comparison across multiple platforms.,Neutral,1942,37,2026-03-09
+1241,Google Reviews,Myntra,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,1769,605,2026-03-14
+1242,Google Reviews,Swiggy,Best pizza I've ever had. Ordered again the same evening.,Positive,2135,390,2026-03-27
+1243,Facebook,Samsung,Just renewed my Netflix subscription for another month.,Neutral,1173,548,2026-03-09
+1244,Facebook,BigBasket,Product is fake. The quality is terrible compared to what was shown.,Negative,4189,619,2026-03-07
+1245,Reddit,Zomato,Really happy with my purchase. Exactly as described online. #feedback,Positive,4944,253,2026-03-04
+1246,Google Reviews,Samsung,Delivery boy was very polite and on time. Appreciate it.,Positive,540,337,2026-03-26
+1247,Instagram,Flipkart,Chatbot is completely useless and never connects to a human agent. #feedback,Negative,2241,10,2026-03-05
+1248,Twitter,Amazon,Flipkart customer support is completely useless. Never buying again.,Negative,4312,745,2026-03-13
+1249,Facebook,BigBasket,The product page says it will be delivered by Friday.,Neutral,2310,564,2026-03-13
+1250,Facebook,Samsung,Packaging was eco-friendly and the product was intact. Great job!,Positive,1480,353,2026-03-31
+1251,Google Reviews,Amazon,Checked the price comparison across multiple platforms.,Neutral,2122,9,2026-03-28
+1252,Reddit,BigBasket,Really happy with my purchase. Exactly as described online.,Positive,2190,54,2026-03-30
+1253,Google Reviews,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,3750,187,2026-03-20
+1254,Reddit,Myntra,The restaurant menu had a lot of options to choose from. #feedback,Neutral,1874,312,2026-03-29
+1255,Facebook,Netflix,The movie recommendation on Netflix was spot on. Loved it! #feedback,Positive,651,78,2026-03-29
+1256,Twitter,Netflix,The movie recommendation on Netflix was spot on. Loved it.,Positive,2341,567,2026-03-21
+1257,Google Reviews,Amazon,Netflix's new series is absolutely mind-blowing. Binge-watched all night.,Positive,3929,509,2026-03-23
+1258,Twitter,BigBasket,Checked the price comparison across multiple platforms. #disappointed,Neutral,1557,932,2026-03-29
+1259,Google Reviews,BigBasket,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,346,621,2026-03-19
+1260,Twitter,Apple,The app is asking for a software update.,Neutral,1092,526,2026-03-14
+1261,Instagram,Apple,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,927,346,2026-03-27
+1262,Facebook,Uber Eats,Received a confirmation SMS for my booking. #disappointed,Neutral,2404,271,2026-03-09
+1263,Facebook,Myntra,Notification says my cashback will be credited in 2 days.,Neutral,290,957,2026-03-20
+1264,Twitter,BigBasket,The product page says it will be delivered by Friday. #disappointed,Neutral,3771,336,2026-03-12
+1265,Instagram,Samsung,Super impressed with the quick refund. Will shop again. #disappointed,Positive,2904,9,2026-03-05
+1266,Google Reviews,Myntra,The product page says it will be delivered by Friday.,Neutral,1259,420,2026-03-05
+1267,Facebook,Flipkart,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,3855,404,2026-03-14
+1268,Google Reviews,Swiggy,Chatbot is completely useless and never connects to a human agent.,Negative,890,449,2026-03-28
+1269,Facebook,Samsung,Just downloaded the latest update on my phone.,Neutral,47,367,2026-03-29
+1270,Twitter,Amazon,Love the new features in the latest app update. So intuitive! #happy,Positive,3232,431,2026-03-30
+1271,Instagram,Uber Eats,Swiggy support resolved my issue within minutes. Excellent service.,Positive,2177,121,2026-03-17
+1272,Instagram,Apple,The delivery partner called to confirm the address.,Neutral,3275,513,2026-03-31
+1273,Twitter,Zomato,This app is the biggest scam. Taking money without delivering service.,Negative,1033,159,2026-03-15
+1274,Facebook,Samsung,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,4891,755,2026-03-02
+1275,Reddit,Netflix,Customer support put me on hold for a few minutes. #feedback,Neutral,3513,253,2026-03-24
+1276,Facebook,Netflix,Reading product reviews before making a decision.,Neutral,2158,717,2026-03-10
+1277,Twitter,Myntra,Swiggy app is showing estimated 35 minutes delivery time. #happy,Neutral,1484,193,2026-03-25
+1278,Instagram,Samsung,Really happy with my purchase. Exactly as described online.,Positive,314,280,2026-03-09
+1279,Instagram,Netflix,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,417,389,2026-03-17
+1280,Facebook,Samsung,The new update broke all my preferences. Terrible UX design.,Negative,3925,62,2026-03-22
+1281,Facebook,Apple,Had the best experience at this restaurant. Will definitely visit again!,Positive,2298,965,2026-03-15
+1282,Twitter,Amazon,Browsing through Flipkart for some deals. #happy,Neutral,334,0,2026-03-03
+1283,Reddit,Swiggy,Ordered a birthday cake and it arrived smashed. Ruined the party. #happy,Negative,4968,103,2026-03-16
+1284,Facebook,Swiggy,App crashes every time I try to checkout. Fix your bugs!,Negative,913,99,2026-03-26
+1285,Facebook,Apple,The delivery partner called to confirm the address. #happy,Neutral,4824,541,2026-03-25
+1286,Google Reviews,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,714,908,2026-03-04
+1287,Instagram,Flipkart,Delivery boy was very polite and on time. Appreciate it.,Positive,3651,947,2026-03-04
+1288,Reddit,Flipkart,Received a confirmation SMS for my booking. #feedback,Neutral,4370,738,2026-03-06
+1289,Google Reviews,Swiggy,Best pizza I've ever had. Ordered again the same evening. #happy,Positive,4590,998,2026-03-15
+1290,Twitter,Uber Eats,Checked my order status. It says out for delivery. #disappointed,Neutral,3432,536,2026-03-23
+1291,Facebook,Amazon,Amazon Prime delivery in just 1 day. Great experience as always.,Positive,2372,46,2026-03-24
+1292,Google Reviews,Myntra,The live streaming feature is buttery smooth. 10/10 experience.,Positive,614,169,2026-03-21
+1293,Reddit,Samsung,Reading product reviews before making a decision.,Neutral,4974,278,2026-03-09
+1294,Instagram,BigBasket,Zomato delivery was super fast today. Loved the packaging 🎉,Positive,72,900,2026-03-22
+1295,Instagram,Swiggy,Saw an advertisement for a new show on Netflix. #feedback,Neutral,2199,565,2026-03-04
+1296,Instagram,Swiggy,Flipkart customer support is completely useless. Never buying again.,Negative,320,654,2026-03-07
+1297,Instagram,Flipkart,Discount coupon worked perfectly. Got 40% off. Amazing deal!,Positive,4379,118,2026-03-03
+1298,Twitter,Myntra,The refund was not credited even after 15 days. Chasing support. #feedback,Negative,2163,739,2026-03-07
+1299,Twitter,Apple,Three-day delivery turned into three weeks. No updates at all.,Negative,1796,748,2026-03-11
+1300,Google Reviews,Netflix,App crashes every time I try to checkout. Fix your bugs.,Negative,3129,968,2026-03-27
+1301,Instagram,Apple,The delivery partner called to confirm the address. #happy,Neutral,2201,208,2026-03-25
+1302,Instagram,Samsung,Placed my Zomato order. Waiting for delivery. #happy,Neutral,3019,151,2026-03-19
+1303,Instagram,Amazon,Logged into the app to check my order history. #happy,Neutral,1547,583,2026-03-21
+1304,Facebook,Amazon,Food was delicious and portions were generous. Worth every rupee.,Positive,1455,837,2026-03-18
+1305,Twitter,Samsung,The live streaming feature is buttery smooth. 10/10 experience.,Positive,2009,465,2026-03-27
+1306,Twitter,BigBasket,Packaging was eco-friendly and the product was intact. Great job.,Positive,816,386,2026-03-16
+1307,Twitter,Amazon,Love the new features in the latest app update. So intuitive.,Positive,2034,788,2026-03-04
+1308,Twitter,Myntra,The subscription plan is affordable and the content is top-notch.,Positive,2772,873,2026-03-29
+1309,Google Reviews,Uber Eats,Zomato order was 2 hours late and food arrived cold. Disgusting! #happy,Negative,1336,314,2026-03-15
+1310,Google Reviews,Swiggy,Really happy with my purchase. Exactly as described online.,Positive,4453,126,2026-03-03
+1311,Facebook,Netflix,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,4190,907,2026-03-16
+1312,Instagram,Samsung,Zomato delivery was super fast today! Loved the packaging 🎉,Positive,3157,150,2026-03-15
+1313,Reddit,Netflix,Food was absolutely stale. Had food poisoning after eating this.,Negative,4028,173,2026-03-04
+1314,Twitter,BigBasket,Super impressed with the quick refund. Will shop again. #feedback,Positive,2733,121,2026-03-14
+1315,Reddit,Myntra,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,2743,614,2026-03-08
+1316,Facebook,BigBasket,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,2351,356,2026-03-04
+1317,Twitter,Zomato,Logged into the app to check my order history. #feedback,Neutral,1217,796,2026-03-27
+1318,Reddit,Uber Eats,Driver couldn't find my location despite sharing live location. #happy,Negative,551,115,2026-03-25
+1319,Facebook,Amazon,Received wrong item and now customer care is not picking up.,Negative,1489,785,2026-03-17
+1320,Reddit,Samsung,Driver couldn't find my location despite sharing live location.,Negative,4929,812,2026-03-27
+1321,Reddit,Myntra,Discount coupon worked perfectly. Got 40% off. Amazing deal! #happy,Positive,4072,551,2026-03-22
+1322,Twitter,BigBasket,Checked the price comparison across multiple platforms. #happy,Neutral,3455,539,2026-03-26
+1323,Facebook,Zomato,Flipkart customer support is completely useless. Never buying again.,Negative,1665,871,2026-03-02
+1324,Twitter,Zomato,Downloaded the receipt for my recent purchase.,Neutral,2861,369,2026-03-07
+1325,Reddit,Flipkart,Received an email about a new product launch.,Neutral,1726,847,2026-03-09
+1326,Instagram,Samsung,Discount coupon worked perfectly. Got 40% off. Amazing deal.,Positive,215,712,2026-03-17
+1327,Google Reviews,Netflix,Had the best experience at this restaurant. Will definitely visit again.,Positive,3906,857,2026-03-26
+1328,Facebook,Amazon,Great sound quality on these earphones. Best buy of the year!,Positive,647,250,2026-03-04
+1329,Instagram,Uber Eats,Notification says my cashback will be credited in 2 days.,Neutral,1147,766,2026-03-23
+1330,Facebook,Uber Eats,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,108,293,2026-03-04
+1331,Instagram,Myntra,Customer support was very helpful and patient. 5 stars.,Positive,1313,11,2026-03-18
+1332,Facebook,BigBasket,Swiggy app is showing estimated 35 minutes delivery time.,Neutral,4111,313,2026-03-29
+1333,Twitter,Myntra,Swiggy app is showing estimated 35 minutes delivery time. #happy,Neutral,3092,973,2026-03-08
+1334,Twitter,Flipkart,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,3213,188,2026-03-30
+1335,Facebook,Samsung,Product quality exceeded my expectations. Highly recommended!,Positive,3116,168,2026-03-03
+1336,Facebook,Netflix,Packaging was terrible. Product was broken on arrival.,Negative,855,79,2026-03-15
+1337,Facebook,Amazon,Subscription auto-renewed without any reminder. Scam behavior.,Negative,4436,109,2026-03-04
+1338,Google Reviews,Flipkart,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,265,246,2026-03-11
+1339,Reddit,Zomato,Notification says my cashback will be credited in 2 days.,Neutral,393,322,2026-03-04
+1340,Reddit,Myntra,Netflix's new series is absolutely mind-blowing. Binge-watched all night! #feedback,Positive,1596,322,2026-03-18
+1341,Twitter,Apple,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,3336,918,2026-03-30
+1342,Google Reviews,Samsung,Packaging was eco-friendly and the product was intact. Great job!,Positive,3907,600,2026-03-02
+1343,Reddit,Netflix,Great sound quality on these earphones. Best buy of the year.,Positive,764,975,2026-03-29
+1344,Instagram,Myntra,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,4229,746,2026-03-25
+1345,Instagram,Apple,Order tracking shows the package is in transit. #feedback,Neutral,2382,368,2026-03-26
+1346,Reddit,Flipkart,The app asked me to rate my recent experience.,Neutral,1710,625,2026-03-24
+1347,Twitter,Amazon,Really happy with my purchase. Exactly as described online.,Positive,2535,560,2026-03-05
+1348,Instagram,Swiggy,Packaging was eco-friendly and the product was intact. Great job!,Positive,1322,69,2026-03-13
+1349,Twitter,Amazon,Chatbot is completely useless and never connects to a human agent.,Negative,3774,264,2026-03-19
+1350,Google Reviews,Uber Eats,Just downloaded the latest update on my phone.,Neutral,324,372,2026-03-12
+1351,Facebook,Myntra,Received the Amazon package. Will open it later. #happy,Neutral,2569,382,2026-03-05
+1352,Twitter,BigBasket,Received the Amazon package. Will open it later.,Neutral,467,758,2026-03-10
+1353,Twitter,Swiggy,Downloaded the receipt for my recent purchase.,Neutral,3078,162,2026-03-25
+1354,Reddit,Netflix,Product quality exceeded my expectations. Highly recommended! #happy,Positive,2858,477,2026-03-20
+1355,Twitter,Amazon,Checked the price comparison across multiple platforms.,Neutral,887,939,2026-03-18
+1356,Facebook,Netflix,The app asked me to rate my recent experience. #happy,Neutral,2599,350,2026-03-25
+1357,Facebook,Uber Eats,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,313,558,2026-03-07
+1358,Google Reviews,Zomato,The subscription plan is affordable and the content is top-notch. #happy,Positive,4924,792,2026-03-16
+1359,Instagram,Zomato,Chatbot is completely useless and never connects to a human agent.,Negative,1732,888,2026-03-03
+1360,Instagram,Netflix,Swiggy app is showing estimated 35 minutes delivery time. #feedback,Neutral,1161,70,2026-03-12
+1361,Reddit,Samsung,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,4298,219,2026-03-27
+1362,Reddit,Apple,Food was delicious and portions were generous. Worth every rupee.,Positive,2432,168,2026-03-09
+1363,Google Reviews,Amazon,Browsing through Flipkart for some deals.,Neutral,3578,363,2026-03-30
+1364,Google Reviews,Flipkart,This app is the biggest scam. Taking money without delivering service.,Negative,637,740,2026-03-28
+1365,Facebook,Zomato,The subscription plan is affordable and the content is top-notch.,Positive,1232,918,2026-03-19
+1366,Reddit,Swiggy,Logged into the app to check my order history.,Neutral,4265,739,2026-03-02
+1367,Google Reviews,Netflix,Best pizza I've ever had. Ordered again the same evening.,Positive,298,223,2026-03-29
+1368,Reddit,Flipkart,Browsing through Flipkart for some deals.,Neutral,2851,214,2026-03-10
+1369,Facebook,Zomato,Scrolling through my order history from last month. #disappointed,Neutral,2473,918,2026-03-12
+1370,Reddit,Samsung,Delivery boy was very polite and on time. Appreciate it.,Positive,3361,360,2026-03-16
+1371,Facebook,Netflix,Received a confirmation SMS for my booking.,Neutral,1440,469,2026-03-17
+1372,Reddit,Samsung,Seamless checkout experience. Will recommend to all my friends.,Positive,2334,865,2026-03-28
+1373,Google Reviews,Netflix,The app asked me to rate my recent experience.,Neutral,717,825,2026-03-04
+1374,Reddit,BigBasket,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,4462,102,2026-03-27
+1375,Facebook,Samsung,Saw an advertisement for a new show on Netflix.,Neutral,1735,228,2026-03-20
+1376,Reddit,Netflix,Size chart is completely wrong. Returned the item immediately.,Negative,2872,990,2026-03-20
+1377,Instagram,Myntra,Placed my Zomato order. Waiting for delivery. #disappointed,Neutral,2323,274,2026-03-27
+1378,Instagram,Zomato,The new update broke all my preferences. Terrible UX design.,Negative,3396,33,2026-03-01
+1379,Google Reviews,Apple,Really happy with my purchase. Exactly as described online.,Positive,2745,174,2026-03-25
+1380,Google Reviews,Samsung,The phone battery drains within 3 hours. Total waste of money.,Negative,422,820,2026-03-25
+1381,Instagram,Samsung,Best pizza I've ever had. Ordered again the same evening.,Positive,2606,529,2026-03-07
+1382,Instagram,Myntra,Swiggy cancelled my order without notice. Wasted my dinner plans.,Negative,969,646,2026-03-26
+1383,Instagram,Apple,Placed my Zomato order. Waiting for delivery.,Neutral,1669,95,2026-03-04
+1384,Google Reviews,Amazon,The app asked me to rate my recent experience.,Neutral,227,632,2026-03-30
+1385,Instagram,Uber Eats,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,2933,191,2026-03-10
+1386,Google Reviews,Flipkart,Flipkart customer support is completely useless. Never buying again.,Negative,3097,788,2026-03-13
+1387,Instagram,Zomato,Had the best experience at this restaurant. Will definitely visit again!,Positive,4746,887,2026-03-04
+1388,Instagram,Swiggy,Received an email about a new product launch.,Neutral,2146,916,2026-03-06
+1389,Instagram,Samsung,Product quality exceeded my expectations. Highly recommended!,Positive,824,502,2026-03-02
+1390,Twitter,Flipkart,Product quality exceeded my expectations. Highly recommended.,Positive,3439,384,2026-03-15
+1391,Facebook,Zomato,Checked my order status. It says out for delivery.,Neutral,1463,675,2026-03-25
+1392,Facebook,Uber Eats,Swiggy support resolved my issue within minutes. Excellent service! #disappointed,Positive,4915,559,2026-03-01
+1393,Instagram,BigBasket,Order tracking shows the package is in transit.,Neutral,242,548,2026-03-02
+1394,Facebook,Netflix,Reading product reviews before making a decision.,Neutral,1777,30,2026-03-14
+1395,Instagram,Swiggy,Flipkart customer support is completely useless. Never buying again.,Negative,2241,493,2026-03-09
+1396,Reddit,Samsung,The refund was not credited even after 15 days. Chasing support. #feedback,Negative,4199,969,2026-03-17
+1397,Facebook,Samsung,App crashes every time I try to checkout. Fix your bugs!,Negative,842,597,2026-03-24
+1398,Reddit,Samsung,The customer care team was empathetic and resolved my issue fast.,Positive,3654,433,2026-03-26
+1399,Twitter,BigBasket,Product is fake. The quality is terrible compared to what was shown.,Negative,3137,439,2026-03-10
+1400,Twitter,Uber Eats,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,1370,910,2026-03-02
+1401,Google Reviews,Myntra,App crashes every time I try to checkout. Fix your bugs!,Negative,2885,407,2026-03-01
+1402,Instagram,Apple,Food was delicious and portions were generous. Worth every rupee. #feedback,Positive,2009,74,2026-03-10
+1403,Facebook,Netflix,Packaging was terrible. Product was broken on arrival.,Negative,78,326,2026-03-29
+1404,Google Reviews,Apple,Subscription auto-renewed without any reminder. Scam behavior. #happy,Negative,1905,575,2026-03-05
+1405,Instagram,Netflix,Food was absolutely stale. Had food poisoning after eating this.,Negative,4595,284,2026-03-30
+1406,Reddit,Apple,Product quality exceeded my expectations. Highly recommended.,Positive,2622,202,2026-03-09
+1407,Facebook,Samsung,Logged into the app to check my order history.,Neutral,976,127,2026-03-19
+1408,Google Reviews,Zomato,Ordered a birthday cake and it arrived smashed. Ruined the party.,Negative,2335,18,2026-03-28
+1409,Facebook,Amazon,Scrolling through my order history from last month. #disappointed,Neutral,3299,37,2026-03-23
+1410,Twitter,Netflix,The new iPhone camera quality is outstanding. Apple never disappoints.,Positive,3849,97,2026-03-18
+1411,Facebook,Samsung,Prices are misleading. Hidden charges at checkout are ridiculous. #feedback,Negative,653,569,2026-03-15
+1412,Reddit,Uber Eats,Had the best experience at this restaurant. Will definitely visit again!,Positive,994,863,2026-03-15
+1413,Twitter,Zomato,Super impressed with the quick refund. Will shop again.,Positive,1136,107,2026-03-16
+1414,Twitter,Flipkart,The app asked me to rate my recent experience.,Neutral,3021,835,2026-03-21
+1415,Twitter,Zomato,Had the best experience at this restaurant. Will definitely visit again!,Positive,2492,76,2026-03-12
+1416,Instagram,Amazon,Size chart is completely wrong. Returned the item immediately.,Negative,4779,471,2026-03-04
+1417,Reddit,Uber Eats,Driver couldn't find my location despite sharing live location.,Negative,1002,534,2026-03-22
+1418,Reddit,Swiggy,Scrolling through my order history from last month.,Neutral,2637,791,2026-03-30
+1419,Facebook,Netflix,Flipkart customer support is completely useless. Never buying again. #disappointed,Negative,2891,571,2026-03-10
+1420,Reddit,Zomato,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,1740,13,2026-03-27
+1421,Reddit,Netflix,The restaurant menu had a lot of options to choose from.,Neutral,2788,213,2026-03-26
+1422,Reddit,Amazon,The app is asking for a software update. #feedback,Neutral,4132,108,2026-03-07
+1423,Google Reviews,Myntra,Chatbot is completely useless and never connects to a human agent.,Negative,1663,798,2026-03-17
+1424,Instagram,Swiggy,App update is smooth and the UI looks amazing now. #feedback,Positive,4728,663,2026-03-04
+1425,Twitter,Flipkart,The restaurant menu had a lot of options to choose from.,Neutral,135,915,2026-03-19
+1426,Google Reviews,Uber Eats,Product is fake. The quality is terrible compared to what was shown. #disappointed,Negative,2883,271,2026-03-05
+1427,Instagram,Amazon,"Ordered food at midnight, arrived hot and fresh. Zomato rocks! #feedback",Positive,3251,514,2026-03-17
+1428,Facebook,Apple,Subscription auto-renewed without any reminder. Scam behavior. #disappointed,Negative,801,50,2026-03-27
+1429,Instagram,Samsung,Swiggy app is showing estimated 35 minutes delivery time. #happy,Neutral,1447,608,2026-03-12
+1430,Twitter,Flipkart,Logged into the app to check my order history.,Neutral,909,224,2026-03-04
+1431,Twitter,Myntra,Swiggy support resolved my issue within minutes. Excellent service!,Positive,827,282,2026-03-10
+1432,Twitter,Flipkart,Just renewed my Netflix subscription for another month.,Neutral,2197,507,2026-03-09
+1433,Facebook,BigBasket,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,2359,751,2026-03-01
+1434,Facebook,Flipkart,Food was delicious and portions were generous. Worth every rupee.,Positive,1394,322,2026-03-26
+1435,Reddit,Amazon,The customer care team was empathetic and resolved my issue fast. #happy,Positive,104,682,2026-03-20
+1436,Facebook,Netflix,Subscription auto-renewed without any reminder. Scam behavior.,Negative,1398,695,2026-03-03
+1437,Twitter,Uber Eats,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,2027,483,2026-03-04
+1438,Google Reviews,Myntra,Amazon Prime delivery in just 1 day! Great experience as always.,Positive,1370,773,2026-03-08
+1439,Facebook,Uber Eats,Packaging was eco-friendly and the product was intact. Great job! #disappointed,Positive,4019,752,2026-03-15
+1440,Facebook,Uber Eats,App crashes every time I try to checkout. Fix your bugs!,Negative,111,847,2026-03-14
+1441,Facebook,Myntra,Subscription auto-renewed without any reminder. Scam behavior.,Negative,169,151,2026-03-18
+1442,Reddit,Zomato,Flipkart customer support is completely useless. Never buying again. #happy,Negative,2001,591,2026-03-31
+1443,Twitter,Flipkart,The app asked me to rate my recent experience.,Neutral,3094,654,2026-03-04
+1444,Instagram,Swiggy,Received a confirmation SMS for my booking.,Neutral,2857,909,2026-03-15
+1445,Instagram,Zomato,Browsing through Flipkart for some deals. #feedback,Neutral,4747,532,2026-03-30
+1446,Google Reviews,Apple,Delivery boy was very polite and on time. Appreciate it.,Positive,2362,112,2026-03-02
+1447,Instagram,Myntra,The subscription plan is affordable and the content is top-notch.,Positive,2373,638,2026-03-23
+1448,Facebook,Netflix,Great sound quality on these earphones. Best buy of the year! #feedback,Positive,2414,15,2026-03-19
+1449,Twitter,Zomato,Amazon delivered a damaged product. Refund process is a nightmare.,Negative,4000,313,2026-03-02
+1450,Facebook,Amazon,Worst movie recommendation algorithm. Shows irrelevant content.,Negative,2868,899,2026-03-13
+1451,Facebook,Amazon,Saw an advertisement for a new show on Netflix.,Neutral,1611,442,2026-03-24
+1452,Reddit,Apple,Three-day delivery turned into three weeks. No updates at all.,Negative,2037,831,2026-03-28
+1453,Twitter,Swiggy,This app is the biggest scam. Taking money without delivering service.,Negative,2474,611,2026-03-11
+1454,Facebook,BigBasket,Notification says my cashback will be credited in 2 days.,Neutral,1140,699,2026-03-09
+1455,Instagram,Swiggy,Discount coupon worked perfectly. Got 40% off. Amazing deal.,Positive,2498,87,2026-03-13
+1456,Reddit,Netflix,The restaurant menu had a lot of options to choose from. #happy,Neutral,1135,539,2026-03-20
+1457,Facebook,Samsung,Driver couldn't find my location despite sharing live location. #feedback,Negative,3821,430,2026-03-17
+1458,Twitter,Amazon,Flipkart sale saved me so much money. Totally worth it! #disappointed,Positive,2477,805,2026-03-10
+1459,Google Reviews,Myntra,Reading product reviews before making a decision.,Neutral,4633,898,2026-03-11
+1460,Twitter,Uber Eats,Placed my Zomato order. Waiting for delivery. #happy,Neutral,4243,471,2026-03-01
+1461,Twitter,Apple,Customer support was very helpful and patient. 5 stars.,Positive,4868,99,2026-03-13
+1462,Twitter,BigBasket,Customer support put me on hold for a few minutes.,Neutral,4184,757,2026-03-29
+1463,Reddit,Amazon,Netflix keeps buffering even on high-speed internet. Very frustrating.,Negative,1831,916,2026-03-28
+1464,Facebook,Zomato,Really happy with my purchase. Exactly as described online.,Positive,3972,638,2026-03-29
+1465,Instagram,BigBasket,Love the new features in the latest app update. So intuitive!,Positive,991,532,2026-03-04
+1466,Twitter,Myntra,Netflix keeps buffering even on high-speed internet. Very frustrating. #disappointed,Negative,3635,400,2026-03-01
+1467,Instagram,Flipkart,Prices are misleading. Hidden charges at checkout are ridiculous.,Negative,4478,266,2026-03-25
+1468,Instagram,Zomato,Just downloaded the latest update on my phone. #disappointed,Neutral,1513,145,2026-03-31
+1469,Google Reviews,Flipkart,The phone battery drains within 3 hours. Total waste of money.,Negative,3900,491,2026-03-12
+1470,Facebook,Samsung,Packaging was eco-friendly and the product was intact. Great job!,Positive,3160,714,2026-03-05
+1471,Twitter,Swiggy,Browsing through Flipkart for some deals.,Neutral,3744,123,2026-03-25
+1472,Google Reviews,Uber Eats,Netflix's new series is absolutely mind-blowing. Binge-watched all night!,Positive,349,929,2026-03-14
+1473,Twitter,Amazon,The restaurant menu had a lot of options to choose from.,Neutral,2930,512,2026-03-22
+1474,Twitter,Amazon,The refund was not credited even after 15 days. Chasing support.,Negative,1240,360,2026-03-28
+1475,Instagram,Swiggy,Notification says my cashback will be credited in 2 days. #feedback,Neutral,2481,945,2026-03-16
+1476,Google Reviews,Amazon,Customer support put me on hold for a few minutes.,Neutral,4718,725,2026-03-23
+1477,Facebook,BigBasket,The app is asking for a software update.,Neutral,4757,356,2026-03-25
+1478,Twitter,Amazon,Just renewed my Netflix subscription for another month.,Neutral,1898,98,2026-03-27
+1479,Instagram,Flipkart,Logged into the app to check my order history.,Neutral,863,921,2026-03-08
+1480,Twitter,BigBasket,This app is the biggest scam. Taking money without delivering service.,Negative,2051,117,2026-03-03
+1481,Google Reviews,Zomato,Product quality exceeded my expectations. Highly recommended!,Positive,1425,328,2026-03-05
+1482,Google Reviews,Myntra,Checked my order status. It says out for delivery.,Neutral,1636,200,2026-03-12
+1483,Instagram,Amazon,Just downloaded the latest update on my phone.,Neutral,3555,833,2026-03-23
+1484,Twitter,Netflix,The live streaming feature is buttery smooth. 10/10 experience.,Positive,1667,34,2026-03-06
+1485,Google Reviews,Netflix,Chatbot is completely useless and never connects to a human agent.,Negative,2791,189,2026-03-28
+1486,Instagram,BigBasket,The app is asking for a software update.,Neutral,3880,512,2026-03-15
+1487,Reddit,Samsung,Downloaded the receipt for my recent purchase.,Neutral,3081,894,2026-03-05
+1488,Facebook,Netflix,"Ordered food at midnight, arrived hot and fresh. Zomato rocks.",Positive,966,510,2026-03-09
+1489,Instagram,Swiggy,Received a confirmation SMS for my booking.,Neutral,2059,399,2026-03-30
+1490,Twitter,Myntra,App update is smooth and the UI looks amazing now. #happy,Positive,4713,247,2026-03-23
+1491,Google Reviews,Zomato,Saw an advertisement for a new show on Netflix. #feedback,Neutral,4472,714,2026-03-05
+1492,Twitter,Zomato,Got a notification about a flash sale starting tomorrow.,Neutral,2769,431,2026-03-12
+1493,Instagram,Myntra,Subscription auto-renewed without any reminder. Scam behavior.,Negative,2700,946,2026-03-26
+1494,Google Reviews,BigBasket,The phone battery drains within 3 hours. Total waste of money.,Negative,289,354,2026-03-05
+1495,Facebook,Zomato,"Ordered food at midnight, arrived hot and fresh. Zomato rocks!",Positive,852,36,2026-03-20
+1496,Reddit,Swiggy,Flipkart customer support is completely useless. Never buying again. #feedback,Negative,1865,21,2026-03-01
+1497,Twitter,Myntra,Zomato order was 2 hours late and food arrived cold. Disgusting.,Negative,3949,53,2026-03-18
+1498,Reddit,Myntra,Size chart is completely wrong. Returned the item immediately. #happy,Negative,1128,118,2026-03-19
+1499,Facebook,Samsung,Packaging was terrible. Product was broken on arrival.,Negative,474,243,2026-03-09
+1500,Google Reviews,BigBasket,Netflix's new series is absolutely mind-blowing. Binge-watched all night! #happy,Positive,375,821,2026-03-03
